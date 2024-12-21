@@ -1,8 +1,3 @@
-layout: post
-title: To Do List for this Webbed Site
-date:   2024-10-20 16:35:50 +0000
----
-
 <div>
   <p>
     At time of writing, this site has a basic home page, navbar, Blog Archive, and About page all typed up.
