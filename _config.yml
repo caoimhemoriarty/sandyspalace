@@ -27,7 +27,7 @@ url: "https://sandyspalace.ie" # the base hostname & protocol for your site, e.g
 github_username:  rosamoriarty
 
 # Build settings
-theme: dark-poole
+theme: minima
 plugins:
   - jekyll-feed
 
