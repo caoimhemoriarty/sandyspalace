@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rosa
+title: Sandy's Palace
 #email: rosamoriarty@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Rosa's gay little website
@@ -30,6 +30,9 @@ url: "https://sandyspalace.ie" # the base hostname & protocol for your site, e.g
 theme: minima
 plugins:
   - jekyll-feed
+
+feed:
+  path: atom.xml
 
 minima:
   skin: dark

@@ -1,3 +1,9 @@
+---
+title: To Do List for this Webbed Site
+date: 2024-10-10
+excerpt: sample text
+---
+
 <div>
   <p>
     At time of writing, this site has a basic home page, navbar, Blog Archive, and About page all typed up.
