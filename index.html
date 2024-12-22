@@ -1,0 +1,30 @@
+---
+layout: default
+title: Home
+---
+<div>
+  <p>
+    Good day! You look reasonably sane!
+  </p>
+  <p>
+    I'm Rosa and this is my gay little website. To add: Blog Summary (WIP below), links to various cool stuff I work on, and some cat pics idk
+  </p>
+</div>
+
+<div>
+  <h2>
+    Blog posts:
+  </h2>
+</div>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <span class="post-link" href="{{ post.url | relative_url }}">
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date" style="display: inline-block; margin-right: 5px;">{{ post.date | date_to_string }}</time>
+      -
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </span>
+  </article>
+  {% endfor %}
+</div>
