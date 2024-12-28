@@ -1,0 +1,59 @@
+---
+layout: default
+title: Home
+---
+<div>
+  <p>
+    Good day! You look reasonably sane!
+  </p>
+  <p>
+    I'm Rosa and this is my gay little website. 
+  </p>
+  <p>
+    We're still under construction, but feel free to admire the optimism of someone who thought this would take like 2 hours lolololol
+  </p>
+</div>
+
+<div>
+  <h2>
+    <i>Recent blog posts</i>
+  </h2>
+</div>
+
+<div>
+  {% for post in paginator.posts %}
+  <article>
+    <span href="{{ post.url | relative_url }}">
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date" style="display: inline-block; margin-right: 5px;">{{ post.date | date: "%d-%m-%Y" }}</time>
+      -
+      <a href="{{ post.url | relative_url }}">{{ post.title | preserve_case }}</a>
+    </span>
+  </article>
+  {% endfor %}
+</div>
+<div>
+  <p>
+    <a href="/blog/">Blog</a> | <a href="/atom.xml"> RSS feed</a>
+  </p>
+</div>
+
+<div>
+  <h2>
+    <i>Projects</i>
+  </h2>
+  <p>
+    F1 Archiving and Megatorrents - to add updates on archive status, torrent building, other cool shit i find idk
+  </p>
+  <p>
+    The Tech Stack - details on my PCs, laptops, servers, anything I can tinker with
+  </p>
+  <p>
+    Would it be incredibly gay of me to post my favourite cooking recipes here idk
+  </p>
+</div>
+
+<div>
+  <h2>
+    <i>Webring goes here</i>
+  </h2>
+</div>

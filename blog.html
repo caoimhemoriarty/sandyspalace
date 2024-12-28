@@ -1,0 +1,19 @@
+---
+layout: default
+title: Home
+---
+
+<p>
+    Yeah this layout sucks don't care I'm shipping this bad boy with no survivors
+</p>
+
+{% assign posts = site.posts %} 
+
+<ul>
+  {% for post in posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> 
+      <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span> 
+    </li>
+  {% endfor %}
+</ul>

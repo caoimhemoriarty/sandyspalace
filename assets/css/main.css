@@ -1,5 +1,5 @@
 html, body {
-  font-family: 'MuktaMahee', sans-serif;
+  font-family: 'Nunito', sans-serif;
   line-height: 1.5;
   margin: auto; 
   padding: 0;
@@ -23,11 +23,16 @@ main {
 
 a {
   color: #007bff;
+  text-decoration: none; 
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #f0f0f0;
-  font-family: 'MuktaMahee', sans-serif;
+a:hover {
+  color: #0056b3; 
+}
+
+h1, h2, h3, h4, h5, h6 { margin-top: 3rem; } { 
+  color: #ffffff;
+  font-family: 'Nunito', sans-serif;
 }
 
 .header {

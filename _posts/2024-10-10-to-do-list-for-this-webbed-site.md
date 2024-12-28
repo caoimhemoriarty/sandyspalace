@@ -1,7 +1,5 @@
 ---
 title: To Do List for this Webbed Site
-date: 2024-10-10
-excerpt: sample text
 ---
 
 <div>

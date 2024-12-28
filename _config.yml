@@ -38,6 +38,10 @@ minima:
   skin: dark
   date_format: "%b %-d, %Y"
 
+# Pagination
+paginate: 5 # Show 5 posts per page
+paginate_path: /blog/page/:num/ # Customize the URL for paginated pages
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
