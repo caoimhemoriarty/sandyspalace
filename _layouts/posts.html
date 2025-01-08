@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css"> 
+    {% include comments.html %}
 </head>
 
 <body>
@@ -16,16 +17,6 @@
     <main>
     {{ content }}
     </main>
-
-    <script 
-        src="https://utteranc.es/client.js"
-        repo="rosamoriarty/sandyspalace"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-    </script>
-
 </body>
 
 </html>

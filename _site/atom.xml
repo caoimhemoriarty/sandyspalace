@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-08T15:47:44+00:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Sandy’s Palace</title><subtitle>Rosa&apos;s gay little website</subtitle><entry><title type="html">I Love Niche Problems</title><link href="http://localhost:4000/2025/01/07/I-Love-Niche-Problems.html" rel="alternate" type="text/html" title="I Love Niche Problems" /><published>2025-01-07T00:00:00+00:00</published><updated>2025-01-07T00:00:00+00:00</updated><id>http://localhost:4000/2025/01/07/I-Love-Niche-Problems</id><content type="html" xml:base="http://localhost:4000/2025/01/07/I-Love-Niche-Problems.html"><![CDATA[<div>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-08T16:12:41+00:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Sandy’s Palace</title><subtitle>Rosa&apos;s gay little website</subtitle><entry><title type="html">Testing Comments</title><link href="http://localhost:4000/2025/01/08/Testing-Comments.html" rel="alternate" type="text/html" title="Testing Comments" /><published>2025-01-08T00:00:00+00:00</published><updated>2025-01-08T00:00:00+00:00</updated><id>http://localhost:4000/2025/01/08/Testing-Comments</id><content type="html" xml:base="http://localhost:4000/2025/01/08/Testing-Comments.html"><![CDATA[<div>
+    <p>
+        I'm permitting use of a tiny amount of Javascript, to test out comment sections and seeing what's the easiest implementation.
+    </p>
+    <p>
+        The criteria is simple:
+    </p>
+    <ul>
+        <li>No Disqus</li>
+        <li>That's it</li>
+    </ul>
+    <p>
+        Test #1 is using Utterances, which integrates nicely into GitHub, which was already hosting the site to begin with.
+    </p>
+    <p>
+        The main obvious downside is that GitHub authentication is required to comment, rather than allowing pseudo-anonymous comments. Anyone who doesn't have a GitHub account will be unable to tell me that this idea is shit.
+    </p>
+    <p>
+        Given that this test therefore has a guaranteed 100% satisfaction rate among commenters, I see it staying 😎
+  </p>
+
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[I'm permitting use of a tiny amount of Javascript, to test out comment sections and seeing what's the easiest implementation. The criteria is simple: No Disqus That's it Test #1 is using Utterances, which integrates nicely into GitHub, which was already hosting the site to begin with. The main obvious downside is that GitHub authentication is required to comment, rather than allowing pseudo-anonymous comments. Anyone who doesn't have a GitHub account will be unable to tell me that this idea is shit. Given that this test therefore has a guaranteed 100% satisfaction rate among commenters, I see it staying 😎]]></summary></entry><entry><title type="html">I Love Niche Problems</title><link href="http://localhost:4000/2025/01/07/I-Love-Niche-Problems.html" rel="alternate" type="text/html" title="I Love Niche Problems" /><published>2025-01-07T00:00:00+00:00</published><updated>2025-01-07T00:00:00+00:00</updated><id>http://localhost:4000/2025/01/07/I-Love-Niche-Problems</id><content type="html" xml:base="http://localhost:4000/2025/01/07/I-Love-Niche-Problems.html"><![CDATA[<div>
     <p>
         At this point I still haven't typed up an explanation of my F1 archiving and distribution work, so out of context this will appear even more insane than usual.
     </p>
