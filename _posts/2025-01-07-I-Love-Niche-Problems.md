@@ -1,5 +1,6 @@
 ---
 title: I Love Niche Problems
+layout: posts
 ---
 
 <div>

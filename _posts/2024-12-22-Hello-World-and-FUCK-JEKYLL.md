@@ -1,5 +1,6 @@
 ---
 title: Hello World and FUCK JEKYLL
+layout: posts
 ---
 
 <div>
