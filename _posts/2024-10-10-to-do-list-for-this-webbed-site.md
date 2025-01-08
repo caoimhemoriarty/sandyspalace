@@ -1,6 +1,5 @@
 ---
 title: To Do List for this Webbed Site
-layout: posts
 ---
 
 <div>
