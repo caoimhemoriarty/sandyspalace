@@ -1,7 +1,3 @@
----
-title: Celeste Is Good
----
-
 <div>
     <p>
         Ticking off another game on the "quintessential games for enlightened catgirls" list, I played Celeste this month for the first time.
@@ -13,7 +9,9 @@ title: Celeste Is Good
         I'm completely hooked, and am now going back to pick up every strawberry, and make a solid attempt at the B-sides. Chapter 8 and 9 will soon follow :3
     </p>
 </div>
-    ![A screenshot of Celeste when the game was beaten for the first time. 94 out of 175 strawberries collected, 1738 deaths, and 9 hours 54 minutes playtime.](https://sandyspalace.ie/assets/images/blog/celeste1.png)
+
+<img src="/assets/images/blog/celeste1.png" alt="A screenshot of Celeste after the first playthough. 94 out of 175 strawberries, 1738 deaths, and 9 hours and 54 minutes playtime.">
+
 <div>
     <p>
     In my defense a few hundred of these deaths were early B-side attempts lolololol
