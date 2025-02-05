@@ -31,6 +31,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+titlecase: false # Or capitalize: false, depending on the theme
+
 feed:
   path: atom.xml
 
