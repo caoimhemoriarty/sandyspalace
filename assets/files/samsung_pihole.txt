@@ -2,3 +2,7 @@
 
 otn\.samsungcloudcdn\.com$
 samsungotn\.net$
+osb-v2.samsungqbe.com
+otn2.samsungcloudcdn.com
+scpopenapi.samsungcloud.tv
+cdn.samsungcloudsolution.com
