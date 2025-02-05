@@ -1,0 +1,4 @@
+# Test run for blocking a Samsung TV update
+
+otn.*\.samsungcloudcdn\.com$
+.*samsungotn\.net$
