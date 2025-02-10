@@ -27,4 +27,7 @@ title: PiHole Blocking for Samsung Junk TVs
     <p>
         <b>5th Feb 2025</b>: PiHole is successfully blocking most Samsung CDN domains. Pop-up for firmware update hasn't appeared after a few soft resets. This may only occur a set amount of times per day, so I'll check for this tomorrow. TV otherwise working "well".
     </p>
+    <p>
+        <b>9th Feb 2025</b>: Popup notification for firmware updates have appeared again. I can't immediately see any queries going to Samsung domains. Fuckin delightful.
+    </p>
 </div>
