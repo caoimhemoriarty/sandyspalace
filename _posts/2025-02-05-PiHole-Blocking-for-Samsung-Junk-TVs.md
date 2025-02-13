@@ -30,4 +30,7 @@ title: PiHole Blocking for Samsung Junk TVs
     <p>
         <b>9th Feb 2025</b>: Popup notification for firmware updates have appeared again. I can't immediately see any queries going to Samsung domains. Fuckin delightful.
     </p>
+    <p>
+        <b>13th Feb 2025</b>: Still not seeing what request is slipping through PiHole. If the notification has been locally 'installed', then we could be in trouble. I'm never gonna install it, and can't figure out how to get it to fuck off.
+    </p>
 </div>
