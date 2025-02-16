@@ -6,3 +6,5 @@ osb-v2.samsungqbe.com
 otn2.samsungcloudcdn.com
 scpopenapi.samsungcloud.tv
 cdn.samsungcloudsolution.com
+unagi-eu.amazon.com
+ktpx-eu.amazon.com
