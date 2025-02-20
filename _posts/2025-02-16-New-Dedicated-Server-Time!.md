@@ -63,5 +63,11 @@ title: New Dedicated Server Time!
     <p>
         Once fully ported, I plan to run some speed comparisons, test the performance gain of the RAID 10 configuration, then drop the slower server.
     </p>
+    <p>
+        <b>20th Feb Update:</b> I have decided that Hetzner actually sucks
+    </p>
+    <p>
+        <img src="/assets/images/blog/hetzner.png">
+    </p>
 
 </div>
