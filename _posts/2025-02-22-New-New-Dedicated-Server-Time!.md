@@ -1,0 +1,56 @@
+---
+title: New New Dedicated Server Time!
+---
+
+<div>
+    <p>
+        The more I try to scale my servers, the more issues I hit:
+        <ul>
+            <li>Leaseweb has poor peering, and Hetzner is hostile to Plex media servers and public torrent trackers</li>
+            <li>I would rather move away from Plex and support an open-source alternative</li>
+            <li>Storage is a continual issue. To achieve 10TB+ cloud storage requires increasingly high server costs, and the only affordable options are the ones with issues listed above</li>
+        </ul>
+    </p>
+    <p>
+        My latest foray is attempting to alleviate the storage issue, such that the total HDD capacity of the server is capped at 8TB.
+    </p>
+    <p> 
+        Currently the megatorrents take up 6.6TB, and I'm forecasting an increase of 1.2TB at the end of 2025. Some of these megatorrents are secondary, and don't require gigabit-line seeding support.
+    </p>
+    <p>
+        As a secondary concern, the media server is currently 3.5TB in size. This could be alleviated by moving it to another network, or simply by scaling down the size of the library. Or by not downloading 4K but I'm not doing that :3
+    </p>
+    <p>
+        Plus... price. I could keep paying higher and higher amounts for absurd storage and incredible connections, but we've passed the point where any of that benefits me. My charity work to the motorsports community has its limits.
+    </p>
+    <p>
+        With this in mind, I'm on the hunt for a 6-8TB dedicated server, ideally with a gigabit line but I'd settle for 500Mpbs. To achieve this, some compromises need to be made:
+        <ul>
+            <li>The secondary-priority megatorrents need to be moved off the main server, maybe a week after they've been released to the general public</li>
+            <li>The media server does need some degree of hosting on the server, as most of the media is obtained via private trackers. However I need to set up an automatic script that, once an item has hit its seeding ratio, it gets deleted from the server</li>
+            <li>To achieve constrant streaming capabilities, I need a local media server rather than a remote one. The local server has a copy of all downloaded files, so once they're removed from the main server, there's no impact on streaming</li>
+        </ul>
+    </p>
+    <p>
+        There's one huge roadblock to the shuffling around of megatorrents and media files to local storage - local broadband. Even with a "gigabit" line, it's still residential, and therefore has dogshit upload speeds capped at 5MB/s.
+    </p>
+    <p>
+        An opportunity arises from the fact that all of the primary megatorrents are updated in a narrow timeframe each year. Ideally all in the month of December. Additional space is required at this time, to allow me to host the old+new megatorrent for contingency reasons. But I could very feasibly rent a second server just for one month to alleviate this.
+    </p>
+    <p>
+        Enter my radical and brilliant and flawless new plan that will definitely last longer than a week:
+        <ul>
+            <li>Use my PC rig as the media server, running Jellyfin ideally, but Emby or Plex as a backup</li>
+            <li>Rent a nice compact 8TB server for megatorrent hosting, plus media downloading + seeding</li>
+            <li>Build a script to automate the handling of fully-seeded torrents</li> 
+        </ul>
+    </p>
+    <p>
+        This requires the PC to be always-on, but it was always-on already :3
+    </p>
+    </p>
+        Today I'm sussing out some OVH servers, deciding between 500Mbps and 1Gbps, pulling the trigger, transferring everything over (again) and will report back when everything explodes
+    </p>
+
+
+</div>
