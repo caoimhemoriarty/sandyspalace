@@ -1,0 +1,125 @@
+---
+title: Hetzner vs Leaseweb vs OVH - Server Consolidation
+---
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed; /* Important! */
+  }
+
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    overflow: hidden; /* Prevent content overflow */
+    white-space: nowrap; /* Prevent text wrapping */
+    text-overflow: ellipsis; /* Add ellipsis for clipped text */
+  }
+
+  th:nth-child(1), td:nth-child(1) { width: 150px; } /* Column 1 */
+  th:nth-child(2), td:nth-child(2) { width: 100px; } /* Column 2 */
+  th:nth-child(3), td:nth-child(3) { width: 100px; } /* Column 3 */
+  th:nth-child(4), td:nth-child(4) { width: 100px; } /* Column 4 */
+</style>
+
+<div>
+    <p>
+        Good news! I have acknowledged my hubris out loud, and am consolidating down to one server that's actually affordable and can handle all the current needs, plus keeping space for future requirements. 
+    </p>
+    <p>
+        Took a while to get here mind you.
+    </p>
+    <p>
+        I did have an interesting opportunity though. With three servers live at the same time, I tried to run some real-life benchmarks to see what was actually performing as expected.
+    </p>
+    <p>
+        My first test was sending files directly from server to server using the scp command. I chose a single 1GB file, to reduce latency for different system handling of block allocation. The quality of the line connection is most important to me, I'm not bothered about CPU/RAM/HDD efficiency.
+    </p>
+    <p>
+        The file was an episode of Serial Experiments Lain, because I figured this is basically enrichment for Lain :3
+    </p>
+    <p>
+        <table>
+        <thead>
+            <tr>
+            <th></th>
+            <th>Time to Complete</th>
+            <th>Average Speed (MBps)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td>Hetzner → Leaseweb</td>
+            <td>00:10</td>
+            <td>91.3</td>
+            </tr>
+            <tr>
+            <td>Hetzner → OVH</td>
+            <td>00:46</td>
+            <td>21.0</td>
+            </tr>
+            <tr>
+            <td>Leaseweb → Hetzner</td>
+            <td>00:10</td>
+            <td>93.8</td>
+            </tr>
+            <tr>
+            <td>Leaseweb → OVH</td>
+            <td>00:43</td>
+            <td>22.5</td>
+            </tr>
+            <tr>
+            <td>OVH → Hetzner</td>
+            <td>00:56</td>
+            <td>17.4</td>
+            </tr>
+            <tr>
+            <td>OVH → Leaseweb</td>
+            <td>01:00</td>
+            <td>16.2</td>
+            </tr>
+        </tbody>
+        </table>
+    </p>
+    <p>
+        Absolutely dire performance from OVH on both download and upload performance. The fact that these speeds are replicated in both directions, while pointing at different servers, who each performed well in separate tests, is incredibly damning. Leaseweb and Hetzner are pretty comparable and as advertised.
+    </p>
+    <p>
+        Second experiment was just a network data sample of an average day's activity. I used vnstat to pull the daily upload total (in TB) for each server:
+    </p>
+    <p>
+
+        <table>
+        <thead>
+            <tr>
+            <th></th>
+            <th>Hetzner</th>
+            <th>Leaseweb</th>
+            <th>OVH</th>
+            </tr>
+        </thead>
+            <tbody>
+            <tr>
+            <td>2025-02-23</td>
+            <td>3.18</td>
+            <td>2.51</td>
+            <td>0.99</td>
+            </tr>
+        </tbody>
+        </table>
+    </p>
+    <p>
+        OVH is completely unsuitable for my needs, has speeds nowhere near advertised levels, and I've cancelled the service almost as soon as I ordered it.
+    </p>
+    <p>
+        For choosing between Hetzner and Leaseweb, I still have concerns over the former's monitoring of torrents, given that the torrents it flagged on my IP address had seemingly nothing to do with my activity. However the peering is excellent, and there's a significant benefit in peer-to-peer file transfer rates. Server-to-server transfer rates are pretty much exactly the same as Leaseweb.
+    </p>
+    <p>
+        Hetzner is therefore being prepped as the single server going forward, and Leaseweb will be used as a primary backup until its next renewal date. My home PC will be the future primary backup, which does suffer poor upload speed, but otherwise is safe and secure... and cheaper.
+    </p>
+    <p>
+        Coincidentially, I had to wipe and restart Hetzner this week due to a setup error in the RAID 10 configuration, and was wasting 4TB of usable space in the root partition. This also gave me the opportunity to clean my my media library, assign a domain name to the media server (which subsequently makes transitioning to Jellyfin easier), fix some stupid nginx issues, and have the server running at peak efficiency. I'm extremely smug that, on maximum server utilisation, we only need 1.2GB RAM. Eat shit, Chrome. 
+    </p>
+</div>
