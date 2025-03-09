@@ -10,10 +10,7 @@
     </p>
 </div>
 
-<img src="/assets/images/blog/celeste1.png" alt="A screenshot of Celeste after the first playthough. 94 out of 175 strawberries, 1738 deaths, and 9 hours and 54 minutes playtime.">
-
-<div>
-    <p>
-    In my defense a few hundred of these deaths were early B-side attempts lolololol
-    </p>
-</div>
+<figure style="margin: 1rem auto; text-align: center;">
+<img src="/assets/images/blog/celeste1.png" alt="A screenshot of Celeste after the first playthough. 94 out of 175 strawberries, 1738 deaths, and 9 hours and 54 minutes playtime." style="max-width: 100%; height: auto; display: block;">
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">In my defense a few hundred of these deaths were early B-side attempts lolololol</figcaption>
+</figure>

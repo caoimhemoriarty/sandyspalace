@@ -1,0 +1,75 @@
+---
+title: Say Hi To Takumi, The Toyota GT86
+---
+
+<div>
+    <p>
+        Hello did you know I have incredible taste and terrible spending habits :3
+    </p>
+
+    <p>
+        <figure style="margin: 1rem auto; text-align: center;">
+        <img src="/assets/images/blog/takumi1.jpg" alt="Description of the image" style="max-width: 100%; height: auto; display: block;">
+        <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Excuse the editing, it's not my day job.</figcaption>
+        </figure>
+    </p>
+    
+    <p>
+        This is my new love, a Toyota GT86 imported from Britain. First-gen ZN6 model, with a decent modding and maintenance scene supporting it. It seems to have aged really well as a platform, with only the valve spring recall being a particularly notable problem.
+    </p>
+
+    <p>
+        It's a classic old school 2+2, sacrificing raw power for reduced weight, low centre of gravity, and a setup that's incredibly driver-focused. I still haven't had a proper test of it on winding    country roads, but it's been super fun every chance I get to bring it around.
+    </p>
+
+    <p>
+        I would dearly like to meet the previous owner. She's put on some rather interesting boy racer mods, but after almost 100,000 miles, there's barely a scratch on it, or heavy wear on the mechanicals. The front aero splitter, carbon side skirts, ducktail spoiler, and Invidia exhaust are all great looks and really elevate the machine.
+    </p>
+
+    <p>
+        <figure style="margin: 1rem auto; text-align: center;">
+        <img src="/assets/images/blog/takumi2.jpg" alt="Description of the image" style="max-width: 100%; height: auto; display: block;">
+        <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Very useful for supermarket car parks yknow</figcaption>
+        </figure>
+    </p>
+
+    <p>
+        Performance-wise, there's a small improvement from the Invidia exhaust, but otherwise no power modifications. I'm curious to push the platform, but don't think I'll make any excessive changes. 220 HP (160KW) is honestly fine for Irish roads, as we don't have the wonderful country roads of America or Britain, or any continental European country for that matter. Too many fucking bumps. 
+    </p>
+
+    <p>
+        Plus... it already has 100k miles on it. Pushing it beyond 300 HP is questionable at its current age.
+    </p>
+
+    <p>
+        It's great to drive, which is the entire point of the car so that shouldn't come as a huge surprise. The steering is incredibly direct, and wonderfully hooked up at all speeds. Suspension is borderline too stiff for daily driving, particularly on the rear, but has great responsiveness.
+    </p>
+
+    <p>
+        The Invidia exhaust adds a huge amount of depth to the noise, but honestly I love the whines from the engine, and wish I could hear them more. If it wasn't an economically terrible idea, a supercharger would be a fantastic addition if only for the audible aesthetics.
+    </p>
+
+    <p>
+        <figure style="margin: 1rem auto; text-align: center;">
+        <img src="/assets/images/blog/takumi3.jpg" alt="Description of the image" style="max-width: 100%; height: auto; display: block;">
+        <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Mm yes very wise</figcaption>
+        </figure>
+    </p>
+
+    <p>
+        From a practical perspective, there's a bit too much drone when off-throttle. It's currently my biggest gripe, but not worthy yet of modifying the exhaust.
+    </p>
+
+    <p>
+        I adore the reactions received. Kids will ask to hear some revs, and I love dishing it out. Only tonight a guy pulled up next to me, beaming and glowing with enthusiasm. I gave him a standing start procedure as thanks :D
+    </p>
+
+    <p>
+        I'm planning its first track day, but might get adjustable coilover springs first. It would be super fun on track, and might also improve the bumpiness on the drive home afterwards.
+    </p>
+
+    <p>
+        Finally the one big sting... I paid as much in import costs as much as I paid for the car itself. The uprising against the Irish state has therefore been brought forward several weeks. 
+    </p>
+
+</div>
