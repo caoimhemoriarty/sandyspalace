@@ -72,3 +72,14 @@ nav a {
   display: inline-block; 
   margin-left: 1rem; 
 }
+
+.code-box {
+  width: 300px; /* Adjust width as needed */
+  height: 100px; /* Adjust height as needed */
+  border: 1px solid #ccc; /* Add a border */
+  overflow: auto; /* Add scrollbars if content overflows */
+  font-family: monospace; /* Use a monospace font */
+  font-size: 12px; /* Adjust font size */
+  padding: 5px; /* Add padding */
+  background-color: #f9f9f9; /* Add a background color */
+}
