@@ -1,0 +1,41 @@
+---
+title: Caoimhefication Instrumentality Project
+---
+
+<div>
+    <p>
+        Changing your name once is so out - changing it three times is so in.
+    </p>
+    <p>
+        Once because I searched for a name that both guys and girls use, something that would let me hide behind a veneer of ambiguity. As suspected, it became stale and meaningless.
+    </p>
+    <p>
+        Then once because I realised my love for cute things, and wanted a cute name to go with it. The comfort with it never grew beyond the honeymoon phase, and I did feel lacking for not picking something Irish.
+    </p>
+    <p>
+        And once again after I changed my name as a joke on a Discord server, got unsuspectingly called by that name the following day, and something clicked in my brain. Nothing major, simply a "that felt nice". Something I was lacking up until then.
+    </p>
+    <p>
+        Being queer leaves one more open to this kind of this thought process than most, I feel. Already being so distanced from the rest of society, what's another identity shift? What do I have to lose?
+    </p>
+    <p>
+        I know and love myself more than I ever did before. This has only been strengthened by this kind of self-searching that may never conclude. Far from a weakness that people trapped by normality and fear would have you or I think.
+    </p>
+    <p>
+        Frankly my main concern wasn't other people's perception. It was moreso the dread of what I'd already semi-completed before: The arduous process of changing hundreds of usernames and email logins. A password manager was absolutely mandatory, and frankly it's reinforced my horror of people who don't use one. Use Bitwarden today &#128591;
+    </p>
+    <p>
+        <i>Full disclaimer - I am moderately influenced by the fact that two of my most favourite people around are already named Caoimhe. Hi btw &#x1F496;</i>
+    </p>
+    <p>
+        After only a short amount of time, it's been already worth it. There's a deep joy in hearing it said out loud. A statement of trust and love shown by those I've opened myself up to. All else is secondary. 
+    </p>
+    <p>
+        The legal name change is further down the road, but the hard work has already been done. I've fought state departments, civil servants, and bureaucrats long enough to know that I'll feel no validation from their acknowledgement of my existence. If I were being more cynical, I'd say I was looking down the road of future hate, steeling myself for when the vague tolerance of me is stripped away. We will live far beyond that.
+    </p>
+    <p>
+        The pivotal moment here came much earlier in this process. A friend shuffled next to me in the pub, asking simply "Hey Caoimhe how's it going?" I spent a while stumbling to answer (normal), not immediately noticing the glint that was forming in her eye. "I just wanted to see your reaction when I called you that".
+    </p>
+    <p>
+        I intend to think fondly about this for many years.
+    </p>
