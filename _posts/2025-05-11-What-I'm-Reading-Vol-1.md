@@ -1,6 +1,7 @@
 ---
 title: What I'm Reading, Volume 1
 ---
+ <link rel="stylesheet" href="../assets/css/main.css"> 
 
 <div>
     <p>
