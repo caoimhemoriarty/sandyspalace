@@ -1,11 +1,10 @@
 ---
 title: What I'm Reading, Volume 1
 ---
- <link rel="stylesheet" href="../assets/css/main.css"> 
 
 <div>
     <p>
-        <b>Content warning: Both the article author and I mention abuse and violence in Article 2: The Violence of Chaos.</b>
+        <b>Test Content warning: Both the article author and I mention abuse and violence in Article 2: The Violence of Chaos.</b>
     </p>
     <p>
         Not a particularly original idea, but it'd be good to put proper thoughts to good things I read.
