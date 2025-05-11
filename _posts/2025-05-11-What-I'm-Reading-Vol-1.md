@@ -1,0 +1,77 @@
+---
+title: What I'm Reading, Volume 1
+---
+
+<div>
+    <p>
+        <b>Content warning: Both the article author and I mention abuse and violence in Article 2: The Violence of Chaos.</b>
+    </p>
+    <p>
+        Not a particularly original idea, but it'd be good to put proper thoughts to good things I read.
+    </p>
+    <p>
+        Layout and style of this is mostly mirroring <a href="https://oakreef.ie">Oakreef</a>, but I had this general layout planned beforehand I swear
+    </p>
+
+    <p><h1>Serious Reads</h1></p>
+
+    <p>
+    <h2><a href="https://oakreef.ie/bog/irish-health-service">My Experiences With The Irish Health Service</a></h2>
+    </p>
+    <p>
+        {% highlight plaintext %}But when it comes to disability, how well one performs academically or economically is often seen as the primary metric. Getting a person to produce the desired outputs of those systems is the goal, and if someone does, then they may not be seen as needing assistance, no matter how much they are being ground down as an ill-fitting cog in the machine.{% endhighlight %}
+    </p>
+    <p>
+        A thorougly sobering read, that should be ground into the mind of every policy-maker and power-holder in every country.
+    </p>
+    <p>
+        In an ideal world, people like us would never have needed to write articles like this. In the HSE's ideal world, we would not exist.
+    </p>
+
+    <p>
+    <h2><a href="https://illuminesce.net/blog/posts/2025-04-06-The-Violence-of-Chaos/">The Violence of Chaos</a></h2>
+    </p>
+    <p>
+        {% highlight plaintext %}And I am reminded of this every day when I open the news. It is a hidden abuse that was done to me — and to all of us — that it is normal to live in this way. That to live in a country with liberty, we must give up our liberty to feel safe and supported. And we have been living in fear, I believe, for a long time. To my friends still living in the U.S. and who are afraid - consider this your validation. It is not normal for you to live like this. It was never normal to live like this.{% endhighlight %}
+    </p>
+    <p>
+        Some strong thoughts on abuse and violence here. It hits too close to home, even when I live 6,000km from the US.
+    </p>
+    <p>
+        The entity wielding the weapon in your face often isn't even thinking about you at all.
+    </p>
+
+    <p>
+    <h2><a href="https://time.com/6337835/ai-mediocrity-essay/">AI and the Rise of Mediocrity 4</a></h2>
+    </p>
+    <p>
+        {% highlight plaintext %}Can we recognize the loss of creativity caused by AI as it’s happening? Do we know there is less that is truly new in the world, and fewer avenues for personal expression? Many of us may not. Absence of choice is hard to sense, and mechanization’s real innovation is in creating a complacent buyer with reduced expectations. Once you’ve done that, you can sell them whatever you want. What is being mechanized by AI is our tastes—our ability to discern quality (or originality) at all.{% endhighlight %}
+    </p>
+
+    <p><h1>Light Reads</h1></p>
+
+    <p>
+    <h2><a href="https://715-999-7483.com/">715-999-7483</a></h2>
+    </p>
+    <p>
+        Described as a "phone-powered multiplayer website builder". Call +1 (715) 999-7483, and you'll be prompted to describe the changes you'd like to make to the website, with a 30-second time limit.
+        
+        I'm playing the long game here, waiting for eager followers of the Tom Scott newsletter to get bored of this service, before I hijack it with pics of Sandy and Muffin :3
+    </p>
+
+    <p>
+    <h2><a href="https://blog.cat-girl.gay/magic-wand-3/"><A Hackable, Custom, Magic Wand (Plus) Board</a></h2>
+    </p>
+    <p>
+        :>
+    </p>
+
+    <p>
+    <h2><a href="https://pubs.aip.org/aip/pof/article/37/4/044122/3345324/Phase-behavior-of-Cacio-e-Pepe-sauce">Phase Behaviour of Cacio e Pepe sauce</a></h2>
+    </p>
+    <p>
+    {% highlight plaintext %}We identify starch concentration as the key factor influencing sauce stability, with direct implications for practical cooking. Specifically, we delineate a regime where starch concentrations below 1% (relative to cheese mass) lead to the formation of system-wide clumps, a condition determining what we term the “Mozzarella Phase” and corresponding to an unpleasant and separated sauce. Additionally, we examine the impact of cheese concentration relative to water at a fixed starch level, observing a lower critical solution temperature that we theoretically rationalized by means of a minimal effective free-energy model.{% endhighlight %}
+    </p>
+    <p>
+        Italy was conceived for this scientific wonder of a paper.
+    </p>

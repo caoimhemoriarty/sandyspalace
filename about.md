@@ -11,3 +11,5 @@ This site has been an on and off plan for far too long, and I'm keeping it casua
 - Updates on special torrents I create
 - Whatever the fuck else I forgot to type here
 - Cats :3
+
+I will add an email address here whenever I set up a Sandy's Palace email.
