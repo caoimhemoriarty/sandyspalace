@@ -83,7 +83,3 @@ nav a {
   padding: 5px; /* Add padding */
   background-color: #f9f9f9; /* Add a background color */
 }
-
-p {
-  overflow-inline: auto;
-}

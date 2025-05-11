@@ -4,7 +4,7 @@ title: What I'm Reading, Volume 1
 
 <div>
     <p>
-        <b>Test Content warning: Both the article author and I mention abuse and violence in Article 2: The Violence of Chaos.</b>
+        <b>Content warning: Both the article author and I mention abuse and violence in Article 2: The Violence of Chaos.</b>
     </p>
     <p>
         Not a particularly original idea, but it'd be good to put proper thoughts to good things I read.
@@ -19,7 +19,7 @@ title: What I'm Reading, Volume 1
     <h2><a href="https://oakreef.ie/bog/irish-health-service">My Experiences With The Irish Health Service</a></h2>
     </p>
     <p>
-        {% highlight plaintext %}But when it comes to disability, how well one performs academically or economically is often seen as the primary metric. Getting a person to produce the desired outputs of those systems is the goal, and if someone does, then they may not be seen as needing assistance, no matter how much they are being ground down as an ill-fitting cog in the machine.{% endhighlight %}
+        <code>But when it comes to disability, how well one performs academically or economically is often seen as the primary metric. Getting a person to produce the desired outputs of those systems is the goal, and if someone does, then they may not be seen as needing assistance, no matter how much they are being ground down as an ill-fitting cog in the machine.</code>
     </p>
     <p>
         A thorougly sobering read, that should be ground into the mind of every policy-maker and power-holder in every country.
