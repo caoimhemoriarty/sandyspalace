@@ -1,5 +1,30 @@
+@font-face {
+  font-family: Nunito; 
+  src: url('../fonts/NunitoSans_10pt-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: Cambo; 
+  src: url('../fonts/Cambo-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: MuktaMahee; 
+  src: url('../fonts/MuktaMahee-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: Quicksand; 
+  src: url('../fonts/Quicksand-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: Quicksand-Bold; 
+  src: url('../fonts/Quicksand_Bold.otf'); 
+}
+
 html, body {
-  font-family: 'Nunito', sans-serif;
+  font-family: Quicksand, sans-serif;
   line-height: 1.5;
   margin: auto; 
   padding: 0;
@@ -30,9 +55,10 @@ a:hover {
   color: #0056b3; 
 }
 
-h1, h2, h3, h4, h5, h6 { margin-top: 3rem; } { 
+h1, h2, h3, h4, h5, h6 { 
   color: #ffffff;
-  font-family: 'Nunito', sans-serif;
+  font-family: MuktaMahee, sans-serif;
+  margin-top: 3rem;
 }
 
 .header {
@@ -42,6 +68,12 @@ h1, h2, h3, h4, h5, h6 { margin-top: 3rem; } {
   right: 0;
   z-index: 999;
   padding: 1rem;
+}
+
+nav {
+  top: 0.5vw;
+  width: 100%;
+  background-color: #000000;
 }
 
 nav ul {
@@ -54,6 +86,8 @@ nav ul {
 
 nav li {
   margin: 0 1rem; 
+  float: left;
+  width: 25%;
 }
 
 nav a {
@@ -74,12 +108,28 @@ nav a {
 }
 
 .code-box {
-  width: 300px; /* Adjust width as needed */
-  height: 100px; /* Adjust height as needed */
-  border: 1px solid #ccc; /* Add a border */
-  overflow: auto; /* Add scrollbars if content overflows */
-  font-family: monospace; /* Use a monospace font */
-  font-size: 12px; /* Adjust font size */
-  padding: 5px; /* Add padding */
-  background-color: #f9f9f9; /* Add a background color */
+  width: 300px;
+  height: 100px;
+  border: 1px solid #ccc;
+  overflow: auto;
+  font-family: monospace;
+  font-size: 12px;
+  padding: 5px;
+  background-color: #f9f9f9;
+}
+
+blockquote {
+  color: #f9f9f9be;
+  border-left: 0.15vw solid ;
+  padding-left: 1vw;
+  margin: 0.75vw;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+.bolded {
+  font-family: Quicksand-Bold;
+  letter-spacing: -0.08vw
 }
