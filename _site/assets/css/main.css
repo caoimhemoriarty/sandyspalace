@@ -123,3 +123,8 @@ h1 {
   font-family: Quicksand-Bold;
   letter-spacing: -0.08vw
 }
+
+.fixed-width {
+  width: 7vw;
+  text-align: center;
+}
