@@ -1,14 +1,4 @@
 @font-face {
-  font-family: Nunito; 
-  src: url('../fonts/NunitoSans_10pt-Regular.ttf'); 
-}
-
-@font-face {
-  font-family: Cambo; 
-  src: url('../fonts/Cambo-Regular.ttf'); 
-}
-
-@font-face {
   font-family: MuktaMahee; 
   src: url('../fonts/MuktaMahee-Regular.ttf'); 
 }
