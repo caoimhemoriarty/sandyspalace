@@ -121,10 +121,17 @@ h1 {
 
 .bolded {
   font-family: Quicksand-Bold;
-  letter-spacing: -0.08vw
+  letter-spacing: -0.02vw
 }
-
+/* For the gigachads */
 .fixed-width {
   width: 7vw;
   text-align: center;
+}
+
+/* For the casual audience */
+@media screen and (max-width: 480px){
+  .fixed-width {
+  width: 20vw;
+}
 }

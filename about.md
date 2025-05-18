@@ -5,11 +5,6 @@ title: About
 
 Internationally known and locally respected, it's the Revolver Ocelot of gender themselves.
 
-This site has been an on and off plan for far too long, and I'm keeping it casual to make sure I keep having fun with it. I plan to yap about:
+This site has been an on and off plan for far too long, and I'm keeping it casual to make sure I keep having fun with it.
 
-- Tech projects I've been working on
-- Updates on special torrents I create
-- Whatever the fuck else I forgot to type here
-- Cats :3
-
-I will add an email address here whenever I set up a Sandy's Palace email.
+Contact me at: caoimhe @ sandyspalace.ie if you want to send me feedback, or unsolicited cat pics :3
