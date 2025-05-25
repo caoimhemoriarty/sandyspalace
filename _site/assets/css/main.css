@@ -125,13 +125,13 @@ h1 {
 }
 /* For the gigachads */
 .fixed-width {
-  width: 7vw;
+  width: 5vw;
   text-align: center;
 }
 
 /* For the casual audience */
 @media screen and (max-width: 480px){
   .fixed-width {
-  width: 20vw;
+  width: 22vw;
 }
 }
