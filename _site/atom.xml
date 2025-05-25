@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-25T15:35:31+01:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Sandy’s Palace</title><subtitle>Rosa&apos;s gay little website</subtitle><entry><title type="html">Chili</title><link href="http://localhost:4000/2025/05/25/Chili.html" rel="alternate" type="text/html" title="Chili" /><published>2025-05-25T00:00:00+01:00</published><updated>2025-05-25T00:00:00+01:00</updated><id>http://localhost:4000/2025/05/25/Chili</id><content type="html" xml:base="http://localhost:4000/2025/05/25/Chili.html"><![CDATA[<div>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-25T15:43:40+01:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Sandy’s Palace</title><subtitle>Rosa&apos;s gay little website</subtitle><entry><title type="html">Chili</title><link href="http://localhost:4000/2025/05/25/Chili.html" rel="alternate" type="text/html" title="Chili" /><published>2025-05-25T00:00:00+01:00</published><updated>2025-05-25T00:00:00+01:00</updated><id>http://localhost:4000/2025/05/25/Chili</id><content type="html" xml:base="http://localhost:4000/2025/05/25/Chili.html"><![CDATA[<div>
     <p>
         Today would have been my cat Chili's second birthday.
     </p>
@@ -48,7 +48,7 @@
         Currently testing these video players in a live environment, don't mind me :&gt;
     </p>
     <p>
-        <video controls="">
+        <video controls="" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
         <source src="/assets/videos/blog/chili-1.mp4" type="video/mp4" />
         <figure style="margin: 1rem auto; text-align: center;">
             <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Sniffy Inspection Squad, in your neighbourhood</figcaption>
@@ -65,8 +65,8 @@
     </p>
 
     <p>
-        <video controls="">
-        &lt;source src="/assets/videos/blog/chili-2.mp4" style="max-width: 100%; height: auto; display: block;";&gt;
+        <video controls="" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+        <source src="/assets/videos/blog/chili-2.mp4" type="video/mp4" />
         <figure style="margin: 1rem auto; text-align: center;">
         <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">:3</figcaption>
         </figure>
