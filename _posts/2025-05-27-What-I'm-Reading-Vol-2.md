@@ -1,0 +1,47 @@
+---
+title: What I'm Reading, Volume 2
+---
+
+<div>
+<p>
+    This is a little bit close to <a href="https://sandyspalace.ie/2025/05/11/What-I'm-Reading-Vol-1.html">Volume 1</a>, but it's been a shit few weeks and I'm getting worse by the day.
+</p>
+
+<p><h1>Serious Reads</h1></p>
+
+<h2>The first prototype of the MingKwai Chinese typewriter has been rediscovered</h2>
+
+Spread across three links below, this is the story of the MingKwai, a revolutionary typewriter that was radically ahead of its time.<br><br>
+
+<a href="https://news.stanford.edu/stories/2025/05/mingkwai-chinese-typewriter-prototype-stanford-libraries">Here is the article talking about how the first ever prototype model has just been found:</a>
+
+<blockquote>Lin invented a machine that altered the very act of mechanical inscription by transforming inscription into a process of searching,” Mullaney said. “The MingKwai Chinese typewriter combined ‘search’ and ‘writing’ for arguably the first time in history.</blockquote><br>
+
+Next up, <a href="https://www.youtube.com/watch?v=WVPFU3TK9fU">a video of the prototype itself.</a><br><br>
+
+Third, <a href="https://www.youtube.com/watch?v=yNoWMaOyWHY">an in-depth video explaining how it functions.</a>The machine translation of this video is pretty solid, but even just the video has some useful animations to explain how the typewriter's search mechanics work.<br>
+
+<h2><a href="https://medium.com/@brentcsutoras/the-em-dash-dilemma-how-a-punctuation-mark-became-ais-stubborn-signature-684fbcc9f559">The Em Dash Dilemma: How a Punctuation Mark Became AI’s Stubborn Signature</a></h2>
+
+<blockquote>And now? Humans are ditching em dashes, not because they don’t like them, but because they’re terrified their writing will look fake. One commenter on Hacker News even called it out directly, saying ‘the em dash is now a GPT-ism and is not advisable unless you want people to think your writing is the output of a LLM.</blockquote><br>
+
+Not 100% accurate on the finer details of how LLMs are constructed, but ultimately the ripple effect is real.<br>
+
+<h2><a href="https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing">The Alabama Landline That Keeps Ringing</a></h2>
+
+<blockquote>About 13 million people in the US and 2.6 billion people globally don’t use the internet, whether for reasons of availability, desire, cost, or religion. Some may have it but don’t feel confident using it. To their callers, who dial from all over the world, these students are the internet. And lucky for callers, these students are remarkably non-judgmental when it comes to the questions they’re asked.</blockquote>
+
+<p><h1>Light Reads</h1></p>
+
+<h2><a href="https://www.youtube.com/watch?v=FV36QPB0pew">A bizarre Evangelion Horse Racing advertisement from the 1990s</a></h2>
+Neon Genesis Evangelion if it made far more sense.
+
+<h2><a href="https://www.bbc.com/news/articles/c1ldnedvde9o">Case quacked: Flying duck caught by Swiss speed camera is repeat offender</a></h2>
+Partially here for the funny title, and mostly because it's just funny.<br><br>
+
+And finally, because it makes me laugh every single time I think about it. Every time you wonder if you're just pretending, that you're not enough, that you don't deserve success, just remember: the Ferrari Formula 1 team continues to pay its radio engineers 6-digit figures.<br><br>
+
+<video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<source src="{{ site.baseurl }}/assets/videos/blog/leclerc.mp4" type="video/mp4">
+</video>
+<br><br>
