@@ -37,6 +37,11 @@ title: Little Joys, Volume 1
 
     Fun new fact - I now hum this theme when enjoying bothering someone :3 <br><br>
 
+    <figure style="margin: 1rem auto; text-align: center;">
+    <img src="/assets/images/blog/deltarune.png" style="max-width: 100%; height: auto; display: block;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">This happened organically and made me laugh far more than it should have</figcaption>
+    </figure>
+
     ---<br><br>
 
     I'm enjoying and appreciating physical contact with people for the first time in my life. Very new and very heartfelt.<br><br> 
