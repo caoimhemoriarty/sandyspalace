@@ -71,5 +71,6 @@ title: Say Hi To Takumi, The Toyota GT86
     <p>
         Finally the one big sting... I paid as much in import costs as much as I paid for the car itself. The uprising against the Irish state has therefore been brought forward several weeks. 
     </p>
-
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
 </div>

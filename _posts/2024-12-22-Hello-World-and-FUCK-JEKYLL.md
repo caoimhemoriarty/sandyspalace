@@ -22,4 +22,5 @@ title: Hello World and FUCK JEKYLL
     <p>
         Despite all forces in the universe trying to make it otherwise, I am committed to this being a fun and gay little website. Until I meet the Jekyll devs.
     </p>
+    
 </div>

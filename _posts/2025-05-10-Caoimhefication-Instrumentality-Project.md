@@ -39,3 +39,5 @@ title: Caoimhefication Instrumentality Project
     <p>
         I intend to think fondly about this for many years.
     </p>
+    <script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>

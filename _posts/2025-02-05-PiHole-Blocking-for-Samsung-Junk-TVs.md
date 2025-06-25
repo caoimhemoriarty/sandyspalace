@@ -33,4 +33,6 @@ title: PiHole Blocking for Samsung Junk TVs
     <p>
         <b>13th Feb 2025</b>: Still not seeing what request is slipping through PiHole. If the notification has been locally 'installed', then we could be in trouble. I'm never gonna install it, and can't figure out how to get it to fuck off.
     </p>
+    <script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
 </div>

@@ -27,4 +27,6 @@ title: I Love Niche Problems
     <p>
         FOM wishes they had our freedom.
     </p>
+    <script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
 </div>

@@ -45,3 +45,5 @@ And finally, because it makes me laugh every single time I think about it. Every
 <source src="{{ site.baseurl }}/assets/videos/blog/leclerc.mp4" type="video/mp4">
 </video>
 <br><br>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>

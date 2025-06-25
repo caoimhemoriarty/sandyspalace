@@ -69,5 +69,6 @@ title: New Dedicated Server Time!
     <p>
         <img src="/assets/images/blog/hetzner.png">
     </p>
-
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
 </div>

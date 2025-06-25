@@ -51,6 +51,7 @@ title: New New Dedicated Server Time!
     </p>
         Today I'm sussing out some OVH servers, deciding between 500Mbps and 1Gbps, pulling the trigger, transferring everything over (again) and will report back when everything explodes
     </p>
-
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
 
 </div>

@@ -122,4 +122,6 @@ title: Hetzner vs Leaseweb vs OVH - Server Consolidation
     <p>
         Coincidentially, I had to wipe and restart Hetzner this week due to a setup error in the RAID 10 configuration, and was wasting 4TB of usable space in the root partition. This also gave me the opportunity to clean my my media library, assign a domain name to the media server (which subsequently makes transitioning to Jellyfin easier), fix some stupid nginx issues, and have the server running at peak efficiency. I'm extremely smug that, on maximum server utilisation, we only need 1.2GB RAM. Eat shit, Chrome. 
     </p>
+    <script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
 </div>
