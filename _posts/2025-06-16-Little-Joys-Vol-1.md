@@ -58,5 +58,8 @@ title: Little Joys, Volume 1
 
     Another kid walked past my driveway as I was letting Takumi idle on high, and I see him run over to his dad, then back to me, giving me a little hand signal to rev it. How could I not?<br><br>
 
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
+
 </p>
 </div>
