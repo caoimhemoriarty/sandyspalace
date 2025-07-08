@@ -18,3 +18,5 @@ title: A Halfway Halfassed Review of Signalis
 
     Puzzles are fine, combat is fine, but the above drags the game to a state where I simply don't care to carry on. The plot is working towards something interesting, but the interest simply isn't there any more. There's nothing wrong with a slightly shorter game.
 </p>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>

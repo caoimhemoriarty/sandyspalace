@@ -39,4 +39,6 @@ title: Blood on the Clocktower
 
     9/10 great game ye should try it
 </p>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
 </div>
