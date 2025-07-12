@@ -28,6 +28,11 @@ There are multiple Alices in my life and in yours. We are nothing without them.<
 
 I don't really have any closing thoughts. The above has been a jumble in my mind that only became clearer once I was able to push my life forward. It will likely mean something different to me in the future. In a still-novel joy, I look forward to it.<br><br>
 
+<figure style="margin: 1rem auto; text-align: center;">
+<img src="/assets/images/blog/lain-1.jpeg" style="max-width: 100%; height: auto; display: block;">
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">I think about this a normal amount</figcaption>
+</figure>
+
 </p>
 <script defer src="https://comments.oakreef.ie/comentario.js"></script>
 <comentario-comments></comentario-comments>
