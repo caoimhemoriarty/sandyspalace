@@ -1,0 +1,23 @@
+---
+title: Title
+---
+
+<div>
+<p>
+A
+
+
+
+<p>
+    <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="{{ site.baseurl }}/assets/videos/blog/test-1.mp4" type="video/mp4">
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Caption</figcaption>
+    </figure>
+    </video>
+<p>
+
+
+</p>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>

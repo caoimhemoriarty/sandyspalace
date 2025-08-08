@@ -1,0 +1,41 @@
+---
+title: Babygirl Moments Unlimited
+---
+
+<div>
+<p>
+I enjoy giggling and teeheeheeing a normal amount. It gets far funnier the more egregious the context is.<br><br>
+
+I also enjoy Formula 1 a normal amount, and of the many things that have accumulated in my mind is the enjoymemt of elite sportspeople being delightfully silly. Fernando Alonso is the definition of this, bending the rules and outright breaking them for twenty-plus years, with the most babygirl expression on his face as he pretends he had no idea about the plan to stage a deliberate crash.<br><br> 
+
+One of my favourite moments comes from 1999. British American Tobacco had poured millions into their new child, complete with a star-studded driver lineup, engineers purchased from across the world, and swathes of flashy sponsors. Unfortunately they didn't account for their two drivers engaging in a bet to see who could tackle a steep 250kph+ corner at full throttle.
+
+<p>
+    <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="{{ site.baseurl }}/assets/videos/blog/teehee-1.mp4" type="video/mp4">
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Caption</figcaption>
+    </figure>
+    </video>
+<p>
+
+Millions of dollars ruined, a race weekend thrown out the window, and all but egos unharmed. I think Jock Clear at the end summarises the mood best.<br><br>
+
+Moving on to a man who has defined F1 rulebooks to the extent that they've had to invent multiple new ones just to stop his bullshit. Michael Schumacher, in the middle of a furiously competitive qualifying session at Monaco, had a bright idea mid-lap as to how to ruin his opponent's final attempt to dethrone him. The most enjoyable bit is observing how bad he is at acting bad. The Italian hand gestures, and stalling despite his left hand clearly on the brake bias dial rather than the clutch, is icing on the cake.<br><br>
+
+<p>
+    <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="{{ site.baseurl }}/assets/videos/blog/teehee-2.mp4" type="video/mp4">
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Caption</figcaption>
+    </figure>
+    </video>
+<p>
+
+The driver impeded at the end of the clip? Fernando Alonso. Wonder where he got it from later in life.<br><br>
+
+Anyways this shit makes me giggle and I am committing to submerging you all in inane content until I'm satisfied :3
+
+</p>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
