@@ -8,7 +8,7 @@ I'm finally moving beyond repetitive thoughts on improving Sandy's Palace's home
 
 Fundamentally it's fine - I like straightforward. And it stays true to my goal of minimal bullshit, and only things that I want. Some silly one-liners, blog summary, links to RSS, links to cool stuff, all working ok.<br><br>
 
-The webring isn't great. I populated it once when building the site in late-2024, added two buttons for people I found via another friend's site, then one from a friend I knew IRL, then just kinda stopped. Not that I don't enjoy travsering people's silly little blogs, but mentally the energy wasn't there.<br><br>
+The list of other cool sites isn't great. I populated it once when building the site in late-2024, added two buttons for people I found via another friend's site, then one from a friend I knew IRL, then just kinda stopped. Not that I don't enjoy travsering people's silly little blogs, but mentally the energy wasn't there.<br><br>
 
 So I am making a concerted push to trawl through more blogs - primarily for entertainment, and secondarily to add more cool things to my webring. I think that'd be more sustainable. Maybe hardcap myself at 5 blogs per session, and actually delve into them, rather than surface-level aesthetic comparison.<br><br>
 
