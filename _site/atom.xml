@@ -1,22 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-10T16:59:29+01:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Sandy’s Palace</title><subtitle>Caoimhe&apos;s gay little website</subtitle><entry><title type="html">Small Site Updates</title><link href="http://localhost:4000/2025/08/10/Small-Site-Updates.html" rel="alternate" type="text/html" title="Small Site Updates" /><published>2025-08-10T00:00:00+01:00</published><updated>2025-08-10T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/10/Small-Site-Updates</id><content type="html" xml:base="http://localhost:4000/2025/08/10/Small-Site-Updates.html"><![CDATA[<div>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-11T12:25:05+01:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Sandy’s Palace</title><subtitle>Caoimhe&apos;s gay little website</subtitle><entry><title type="html">WPlace Shitposting General</title><link href="http://localhost:4000/2025/08/11/WPlace-Shitposting-General.html" rel="alternate" type="text/html" title="WPlace Shitposting General" /><published>2025-08-11T00:00:00+01:00</published><updated>2025-08-11T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/11/WPlace-Shitposting-General</id><content type="html" xml:base="http://localhost:4000/2025/08/11/WPlace-Shitposting-General.html"><![CDATA[<div>
+<p>
+If you're not familiar, <a href="https://wplace.live/">WPlace</a> is a collaborative pixel art canvas of sorts, utilising OpenStreetMap and MapLibre for a rather joyful 2025 internet experience. Alternatively, it's the hottest place to shitpost right now.<br /><br />
+
+The servers work approx. 4% of the time, which is charming for now. This will tire out a lot of the freshly enthusiastic crowd that have joined recently, but I'm sure scaling up the servers would be stupidly expensive for such a silly little (affectionate) site.<br /><br />
+
+It is reminiscent of many more delightful websites that no longer exist. Existing not for profit, just for fun. Seeing your home city lit up with flags, artwork, and love is quite touching.<br /><br />
+
+I've been painting, cleaning, and maintaining pride flags in my home city, helping a friend paint her cool custom Pokemon trainer sprite, creating a big sign that tells everyone where my cats live, and planting a little surprise for my online friend in her hometown (Hi Brigid &lt;3).<br /><br />
+
+Though it does expose the fact that art and creativity have never been my strong suit. For every living second in school, my mind would lock up when given any open-plan "write/draw whatever you like" task, then I'd inevitably get shouted at for it. This builds up into me clutching to certainty and security a little bit too much. An open canvas is still scary in a sense.<br /><br />
+
+As much as I like painting big trans-coloured love hearts where my friends might find them, something a bit more individual might be neat. I briefly toyed with sprite creators and assist tools before hitting another creative wall that I've never figured out how to break through. This also ties into creativitiy issues when it comes to this site, and my life and hobbies in general.<br /><br />
+
+Much like relearning Irish, some kind of fundamental restart is needed. 
+
+<figure style="margin: 1rem auto; text-align: center;">
+<img src="/assets/images/blog/wplace-1.png" style="max-width: 100%; height: auto; display: block;" />
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Rio di Janeiro</figcaption>
+</figure>
+
+<figure style="margin: 1rem auto; text-align: center;">
+<img src="/assets/images/blog/wplace-2.png" style="max-width: 100%; height: auto; display: block;" />
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">[Drone Strike]</figcaption>
+</figure>
+
+</p>
+<script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[If you're not familiar, WPlace is a collaborative pixel art canvas of sorts, utilising OpenStreetMap and MapLibre for a rather joyful 2025 internet experience. Alternatively, it's the hottest place to shitpost right now.]]></summary></entry><entry><title type="html">Small Site Updates</title><link href="http://localhost:4000/2025/08/10/Small-Site-Updates.html" rel="alternate" type="text/html" title="Small Site Updates" /><published>2025-08-10T00:00:00+01:00</published><updated>2025-08-10T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/10/Small-Site-Updates</id><content type="html" xml:base="http://localhost:4000/2025/08/10/Small-Site-Updates.html"><![CDATA[<div>
 <p>
 <ul>
-    <li>A quick check showed that Sandy's Palace was consuming 404kB of data transfer on page load. This is shocking, unacceptable, and appalling. To avoid being cubed by the Javascript-hating mob I foolishly created in my head, this needs to go down. I've culled it to below 300kB with some easy changes, unfortunately <a href="https://sneil.neocities.org/">Nora's</a> very cute webring gif now takes up a third of the page size. This will be tolerated :3</li>
-    <li>Made the first new additions to the webring this year. Very much enjoyed looking through these sites. Plenty more to come.</li>
+    <li>A quick check showed that Sandy's Palace was consuming 404kB of data transfer on page load. This is shocking, unacceptable, and appalling. To avoid being cubed by the Javascript-hating mob I foolishly created in my head, this needs to go down. I've culled it to below 300kB with some easy changes, unfortunately <a href="https://sneil.neocities.org/">Nora's</a> very cute 88x31 gif now takes up a third of the page size. This will be tolerated :3</li>
+    <li>Made the first new additions to the Cool Site buttons this year. Very much enjoyed looking through these sites. Plenty more to come.</li>
     <li>Considered updating my 88x31, then decided against it. It's funnier the more basic it is. Unless I can figure out how to animate 88x31 gifs, then I'm unstoppable (someone please show me how to do this)</li>
-    <li>Deliberated randomising the webring order, then decided to keep it mostly ordered in terms of people I know first. Also couldn't be arsed engineering that one without using Javascript. Don't know that many people IRL with webring blogs, gotta work on that</li>
+    <li>Deliberated randomising the Cool Site button order, then decided to keep it mostly ordered in terms of people I know first. Also couldn't be arsed engineering that one without using Javascript. Don't know that many people IRL with blogs, gotta work on that</li>
 </ul>
 Still considering should I post about projects that are identifiable to me IRL. Will err on the side of caution, though it'd be nice to have more links on the home page. 
 </p>
 <script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
 <comentario-comments></comentario-comments>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[A quick check showed that Sandy's Palace was consuming 404kB of data transfer on page load. This is shocking, unacceptable, and appalling. To avoid being cubed by the Javascript-hating mob I foolishly created in my head, this needs to go down. I've culled it to below 300kB with some easy changes, unfortunately Nora's very cute webring gif now takes up a third of the page size. This will be tolerated :3 Made the first new additions to the webring this year. Very much enjoyed looking through these sites. Plenty more to come. Considered updating my 88x31, then decided against it. It's funnier the more basic it is. Unless I can figure out how to animate 88x31 gifs, then I'm unstoppable (someone please show me how to do this) Deliberated randomising the webring order, then decided to keep it mostly ordered in terms of people I know first. Also couldn't be arsed engineering that one without using Javascript. Don't know that many people IRL with webring blogs, gotta work on that Still considering should I post about projects that are identifiable to me IRL. Will err on the side of caution, though it'd be nice to have more links on the home page.]]></summary></entry><entry><title type="html">How Do I Webring</title><link href="http://localhost:4000/2025/08/09/How-Do-I-Webring.html" rel="alternate" type="text/html" title="How Do I Webring" /><published>2025-08-09T00:00:00+01:00</published><updated>2025-08-09T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/09/How-Do-I-Webring</id><content type="html" xml:base="http://localhost:4000/2025/08/09/How-Do-I-Webring.html"><![CDATA[<div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[A quick check showed that Sandy's Palace was consuming 404kB of data transfer on page load. This is shocking, unacceptable, and appalling. To avoid being cubed by the Javascript-hating mob I foolishly created in my head, this needs to go down. I've culled it to below 300kB with some easy changes, unfortunately Nora's very cute 88x31 gif now takes up a third of the page size. This will be tolerated :3 Made the first new additions to the Cool Site buttons this year. Very much enjoyed looking through these sites. Plenty more to come. Considered updating my 88x31, then decided against it. It's funnier the more basic it is. Unless I can figure out how to animate 88x31 gifs, then I'm unstoppable (someone please show me how to do this) Deliberated randomising the Cool Site button order, then decided to keep it mostly ordered in terms of people I know first. Also couldn't be arsed engineering that one without using Javascript. Don't know that many people IRL with blogs, gotta work on that Still considering should I post about projects that are identifiable to me IRL. Will err on the side of caution, though it'd be nice to have more links on the home page.]]></summary></entry><entry><title type="html">How Do I Webring</title><link href="http://localhost:4000/2025/08/09/How-Do-I-Webring.html" rel="alternate" type="text/html" title="How Do I Webring" /><published>2025-08-09T00:00:00+01:00</published><updated>2025-08-09T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/09/How-Do-I-Webring</id><content type="html" xml:base="http://localhost:4000/2025/08/09/How-Do-I-Webring.html"><![CDATA[<div>
 <p>
 I'm finally moving beyond repetitive thoughts on improving Sandy's Palace's homepage.<br /><br />
 
 Fundamentally it's fine - I like straightforward. And it stays true to my goal of minimal bullshit, and only things that I want. Some silly one-liners, blog summary, links to RSS, links to cool stuff, all working ok.<br /><br />
 
-The webring isn't great. I populated it once when building the site in late-2024, added two buttons for people I found via another friend's site, then one from a friend I knew IRL, then just kinda stopped. Not that I don't enjoy travsering people's silly little blogs, but mentally the energy wasn't there.<br /><br />
+The list of other cool sites isn't great. I populated it once when building the site in late-2024, added two buttons for people I found via another friend's site, then one from a friend I knew IRL, then just kinda stopped. Not that I don't enjoy travsering people's silly little blogs, but mentally the energy wasn't there.<br /><br />
 
 So I am making a concerted push to trawl through more blogs - primarily for entertainment, and secondarily to add more cool things to my webring. I think that'd be more sustainable. Maybe hardcap myself at 5 blogs per session, and actually delve into them, rather than surface-level aesthetic comparison.<br /><br />
 
@@ -27,44 +56,7 @@ I was gonna wrap up this post with a joke, then noticed that one of my friends c
 </p>
 <script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
 <comentario-comments></comentario-comments>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[I'm finally moving beyond repetitive thoughts on improving Sandy's Palace's homepage.]]></summary></entry><entry><title type="html">Babygirl Moments Unlimited</title><link href="http://localhost:4000/2025/08/08/Babygirl-Moments-Unlimited.html" rel="alternate" type="text/html" title="Babygirl Moments Unlimited" /><published>2025-08-08T00:00:00+01:00</published><updated>2025-08-08T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/08/Babygirl-Moments-Unlimited</id><content type="html" xml:base="http://localhost:4000/2025/08/08/Babygirl-Moments-Unlimited.html"><![CDATA[<div>
-<p>
-I enjoy giggling and teeheeheeing a normal amount. It gets far funnier the more egregious the context is.<br /><br />
-
-I also enjoy Formula 1 a normal amount, and of the many things that have accumulated in my mind is the enjoymemt of elite sportspeople being delightfully silly. Fernando Alonso is the definition of this, bending the rules and outright breaking them for twenty-plus years, with the most babygirl expression on his face as he pretends he had no idea about the plan to stage a deliberate crash.<br /><br /> 
-
-One of my favourite moments comes from 1999. British American Tobacco had poured millions into their new child, complete with a star-studded driver lineup, engineers purchased from across the world, and swathes of flashy sponsors. Unfortunately they didn't account for their two drivers engaging in a bet to see who could tackle a steep 250kph+ corner at full throttle.
-
-<p>
-    <video controls="" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <source src="/assets/videos/blog/teehee-1.mp4" type="video/mp4" />
-    <figure style="margin: 1rem auto; text-align: center;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Caption</figcaption>
-    </figure>
-    </video>
-<p>
-
-Millions of dollars ruined, a race weekend thrown out the window, and all but egos unharmed. I think Jock Clear at the end summarises the mood best.<br /><br />
-
-Moving on to a man who has defined F1 rulebooks to the extent that they've had to invent multiple new ones just to stop his bullshit. Michael Schumacher, in the middle of a furiously competitive qualifying session at Monaco, had a bright idea mid-lap as to how to ruin his opponent's final attempt to dethrone him. The most enjoyable bit is observing how bad he is at acting bad. The Italian hand gestures, and stalling despite his left hand clearly on the brake bias dial rather than the clutch, is icing on the cake.<br /><br />
-
-<p>
-    <video controls="" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <source src="/assets/videos/blog/teehee-2.mp4" type="video/mp4" />
-    <figure style="margin: 1rem auto; text-align: center;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Caption</figcaption>
-    </figure>
-    </video>
-<p>
-
-The driver impeded at the end of the clip? Fernando Alonso. Wonder where he got it from later in life.<br /><br />
-
-Anyways this shit makes me giggle and I am committing to submerging you all in inane content until I'm satisfied :3
-
-</p>
-<script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
-<comentario-comments></comentario-comments>
-</p></p></p></p></div>]]></content><author><name></name></author><summary type="html"><![CDATA[I enjoy giggling and teeheeheeing a normal amount. It gets far funnier the more egregious the context is.]]></summary></entry><entry><title type="html">My-Dream-Supermarket-V2FINAL.txt</title><link href="http://localhost:4000/2025/08/08/My-Dream-Supermarket-V2FINAL.html" rel="alternate" type="text/html" title="My-Dream-Supermarket-V2FINAL.txt" /><published>2025-08-08T00:00:00+01:00</published><updated>2025-08-08T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/08/My-Dream-Supermarket-V2FINAL</id><content type="html" xml:base="http://localhost:4000/2025/08/08/My-Dream-Supermarket-V2FINAL.html"><![CDATA[<div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[I'm finally moving beyond repetitive thoughts on improving Sandy's Palace's homepage.]]></summary></entry><entry><title type="html">My-Dream-Supermarket-V2FINAL.txt</title><link href="http://localhost:4000/2025/08/08/My-Dream-Supermarket-V2FINAL.html" rel="alternate" type="text/html" title="My-Dream-Supermarket-V2FINAL.txt" /><published>2025-08-08T00:00:00+01:00</published><updated>2025-08-08T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/08/My-Dream-Supermarket-V2FINAL</id><content type="html" xml:base="http://localhost:4000/2025/08/08/My-Dream-Supermarket-V2FINAL.html"><![CDATA[<div>
 <p>
 I am afflicted with a deadly illness that has ruined my life. It's called Walking At A Normal Fucking Speed and cripples my ability to function in society.<br /><br />
 
@@ -91,7 +83,44 @@ In completely unrelated news, I scored full marks on an autism assessment for th
 </p>
 <script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
 <comentario-comments></comentario-comments>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[I am afflicted with a deadly illness that has ruined my life. It's called Walking At A Normal Fucking Speed and cripples my ability to function in society.]]></summary></entry><entry><title type="html">K_____</title><link href="http://localhost:4000/2025/08/07/K_____.html" rel="alternate" type="text/html" title="K_____" /><published>2025-08-07T00:00:00+01:00</published><updated>2025-08-07T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/07/K_____</id><content type="html" xml:base="http://localhost:4000/2025/08/07/K_____.html"><![CDATA[<div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[I am afflicted with a deadly illness that has ruined my life. It's called Walking At A Normal Fucking Speed and cripples my ability to function in society.]]></summary></entry><entry><title type="html">Babygirl Moments Unlimited</title><link href="http://localhost:4000/2025/08/08/Babygirl-Moments-Unlimited.html" rel="alternate" type="text/html" title="Babygirl Moments Unlimited" /><published>2025-08-08T00:00:00+01:00</published><updated>2025-08-08T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/08/Babygirl-Moments-Unlimited</id><content type="html" xml:base="http://localhost:4000/2025/08/08/Babygirl-Moments-Unlimited.html"><![CDATA[<div>
+<p>
+I enjoy giggling and teeheeheeing a normal amount. It gets far funnier the more egregious the context is.<br /><br />
+
+I also enjoy Formula 1 a normal amount, and of the many things that have accumulated in my mind is the enjoymemt of elite sportspeople being delightfully silly. Fernando Alonso is the definition of this, bending the rules and outright breaking them for twenty-plus years, with the most babygirl expression on his face as he pretends he had no idea about the plan to stage a deliberate crash.<br /><br /> 
+
+One of my favourite moments comes from 1999. British American Tobacco had poured millions into their new child, complete with a star-studded driver lineup, engineers purchased from across the world, and swathes of flashy sponsors. Unfortunately they didn't account for their two drivers engaging in a bet to see who could tackle a steep 250kph+ corner at full throttle.
+
+<p>
+    <video controls="" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="/assets/videos/blog/teehee-1.mp4" type="video/mp4" />
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;"></figcaption>
+    </figure>
+    </video>
+<p>
+
+Millions of dollars ruined, a race weekend thrown out the window, and all but egos unharmed. I think Jock Clear at the end summarises the mood best.<br /><br />
+
+Moving on to a man who has defined F1 rulebooks to the extent that they've had to invent multiple new ones just to stop his bullshit. Michael Schumacher, in the middle of a furiously competitive qualifying session at Monaco, had a bright idea mid-lap as to how to ruin his opponent's final attempt to dethrone him. The most enjoyable bit is observing how bad he is at acting bad. The Italian hand gestures, and stalling despite his left hand clearly on the brake bias dial rather than the clutch, is icing on the cake.<br /><br />
+
+<p>
+    <video controls="" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="/assets/videos/blog/teehee-2.mp4" type="video/mp4" />
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;"></figcaption>
+    </figure>
+    </video>
+<p>
+
+The driver impeded at the end of the clip? Fernando Alonso. Wonder where he got it from later in life.<br /><br />
+
+Anyways this shit makes me giggle and I am committing to submerging you all in inane content until I'm satisfied :3
+
+</p>
+<script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
+</p></p></p></p></div>]]></content><author><name></name></author><summary type="html"><![CDATA[I enjoy giggling and teeheeheeing a normal amount. It gets far funnier the more egregious the context is.]]></summary></entry><entry><title type="html">K_____</title><link href="http://localhost:4000/2025/08/07/K_____.html" rel="alternate" type="text/html" title="K_____" /><published>2025-08-07T00:00:00+01:00</published><updated>2025-08-07T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/07/K_____</id><content type="html" xml:base="http://localhost:4000/2025/08/07/K_____.html"><![CDATA[<div>
 <p>
 I am a huge fan of characters that don't speak very much or at all. This may not come as a huge surprise.<br /><br />
 
@@ -272,26 +301,4 @@ And saving all that, there's always domestic terrorism.<br /><br />
 </p>
 <script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
 <comentario-comments></comentario-comments>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[I swear I was ahead of the curve on this one. But modern technology has run out of usefulness to me.]]></summary></entry><entry><title type="html">Something Somewhere Sometime</title><link href="http://localhost:4000/2025/07/18/Something-Somewhere-Sometime.html" rel="alternate" type="text/html" title="Something Somewhere Sometime" /><published>2025-07-18T00:00:00+01:00</published><updated>2025-07-18T00:00:00+01:00</updated><id>http://localhost:4000/2025/07/18/Something-Somewhere-Sometime</id><content type="html" xml:base="http://localhost:4000/2025/07/18/Something-Somewhere-Sometime.html"><![CDATA[<div>
-<p>
-Another WhatsApp notification buzzes. It's the family group chat, for the tenth time this morning. I swipe it away as always, but refuse to mute it.<br /><br />
-
-I check the password manager daily for logins that still use my deadname. Thirteen. Four relate to work and are therefore stuck for the medium-term. Seven relate to companies that are stubborn, backwards, or just plain broken. Two are last-gasp backups.<br /><br />
-
-Ignore the ninty-three victories, and the stray five logins that are stuck on a different name of mine. The thirteen are the only ones on the mind.<br /><br />
-
-Of course, it won't end once everything is converted. There's always something, or someone, that stands in our way, refusing to budge its worldview of us by an inch. A more wholesome way to approach this would be to embrace only that which accepts us, but alas I am a petty bitch.<br /><br />
-
-There's a few enties that I wouldn't mention on a publicly viewable blog post, but if they prove troublesome I will drag them kicking and screaming into acknowledging our existence. It's been proven time and time again that this is the only reliable solution.<br /><br />
-
-And then what? My brain can't settle for anything. There always has to be another hill to climb.<br /><br />
-
-There's been some very nice moments recently that are brand new to me. Falling asleep with friends nearby, a view of Sandy and Muffin loafing observing their garden, the comfort of visiting a couple's place talking casual things for hours. A lot of it still does not feel real.<br /><br />
-
-Maybe reinforcement of these lovely things is all that's needed. I don't need much more than what's already within reach.<br /><br />
-
-Though I would enjoy breaking the Irish land speed record. 161mph is pathetic. But OTHER than that, I may just have to be content with being content.<br /><br />
-</p>
-<script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
-<comentario-comments></comentario-comments>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Another WhatsApp notification buzzes. It's the family group chat, for the tenth time this morning. I swipe it away as always, but refuse to mute it.]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[I swear I was ahead of the curve on this one. But modern technology has run out of usefulness to me.]]></summary></entry></feed>

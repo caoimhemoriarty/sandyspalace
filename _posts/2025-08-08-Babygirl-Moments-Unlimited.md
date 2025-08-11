@@ -14,7 +14,7 @@ One of my favourite moments comes from 1999. British American Tobacco had poured
     <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <source src="{{ site.baseurl }}/assets/videos/blog/teehee-1.mp4" type="video/mp4">
     <figure style="margin: 1rem auto; text-align: center;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Caption</figcaption>
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;"></figcaption>
     </figure>
     </video>
 <p>
@@ -27,7 +27,7 @@ Moving on to a man who has defined F1 rulebooks to the extent that they've had t
     <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <source src="{{ site.baseurl }}/assets/videos/blog/teehee-2.mp4" type="video/mp4">
     <figure style="margin: 1rem auto; text-align: center;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Caption</figcaption>
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;"></figcaption>
     </figure>
     </video>
 <p>
