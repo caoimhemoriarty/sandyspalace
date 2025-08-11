@@ -6,7 +6,10 @@ title: Title
 <p>
 A
 
-
+<figure style="margin: 1rem auto; text-align: center;">
+<img src="/assets/images/blog/test-1.png" style="max-width: 100%; height: auto; display: block;">
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Caption</figcaption>
+</figure>
 
 <p>
     <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
