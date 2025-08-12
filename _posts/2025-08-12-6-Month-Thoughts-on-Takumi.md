@@ -4,7 +4,7 @@ title: 6 Month Thoughts on Takumi
 
 <div>
 <p>
-<a href="https://sandyspalace.ie/2025/03/09/Say-Hi-To-Takumi-The-Toyota-GT86.html">Takumi</a> was bought 6 months ago, integrated into Ireland with wallet-annihilating speed, and has been enjoying his new life (hopefully).
+<a href="https://sandyspalace.ie/2025/03/09/Say-Hi-To-Takumi-The-Toyota-GT86.html">Takumi</a> was bought 6 months ago, integrated into Ireland with wallet-annihilating speed, and has been enjoying his new life (hopefully).<br><br>
 
 He grabs loads of attention still. The car scene in Ireland is dire. It's not just that nice cars are expensive - <i>everything</i> is expensive. So a modded GT86 is more of a head-turner than it has any right to be. This wouldn't even be worthy of a sniff in Britain.<br><br>
 
@@ -20,7 +20,7 @@ Fuel consumption is pretty poor in-town, which annoyingly is where most of my dr
 
 Getting the approval of bikers is my big thing. I got some revs of approval from a Kawasaki rider a few weeks back and am still glowing from that. Also got an earful of throttle from a modded Audi RS6, which considering that thing is a nuclear power plant on wheels, is a nice motivator! Plus the kids who ask me to rev it are still great.<br><br>
 
-Unsure will I take it to Mondello Park, as I've already been there twice and might enjoy learning a new track this time. Anglesey in Wales is right next to Holyhead and looks gorgeous, so that's the next goal!
+Unsure will I take it to Mondello Park, as I've already been there twice and might enjoy learning a new track this time. Anglesey in Wales is right next to Holyhead and looks gorgeous, so that's the next goal!<br><br>
 
 Edit: what the fuck do you mean the ferry is more expensive than the entire track day
 
