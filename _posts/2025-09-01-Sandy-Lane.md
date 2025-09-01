@@ -94,7 +94,7 @@ There's also some strip lighting for the countertop which was a neat addition. P
       </div>
     </div>
   </div>
-<p class="image-caption">Pretty sure </p>
+<p class="image-caption">Pretty sure no plumber will ever work with me again after I handed this project to them</p>
 </div>
 
 This was absolute hell to work on from start to finish. When there were contractors in to help with the floorboards, one of them later confessed to me "I nearly burst into tears".<br><br>
