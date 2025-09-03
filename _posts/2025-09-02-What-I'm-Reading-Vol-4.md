@@ -60,7 +60,7 @@ Fresh from new thoughts after an autism assessment this week<sup id="fnref:3"><a
 
 I wouldn't call it a deficiency or issue of any kind, more that it simply does nothing for me, and I don't care to push myself to enjoy what other people enjoy just to keep up. There's many examples of this for me, and it gets easier with age, practice, and good company.<br><br>
 
-Exposure to many new types of people and inclinations has been great in this regard for me. I wonder if an asexual person would read this article and feel any thread of connection to Pallarés' research. Might do a full post on this train of thought.
+Exposure to many new types of people and inclinations has been great in this regard for me. I wonder if an asexual person would read this article and feel any thread of connection to Pallarés' research. Would someone who feels no attachment to food feel the same? Might do a full post on this train of thought.
 
 <h2><a href="https://www.sequencermag.com/cyborg-rights-depend-on-new-and-better-legal-protections/">Cyborg rights depend on new and better legal protections</a></h2>
 <blockquote>A new kind of technology is necessary to disrupt the status quo— one that further obscures the traditional distinction between body and device. The subject of my last piece, the heart-powered pacemaker (also called TECH), may do just that, potentially offering legal protections for cyborgs.<br><br>
