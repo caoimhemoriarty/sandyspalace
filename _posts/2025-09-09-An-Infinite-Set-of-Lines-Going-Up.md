@@ -1,0 +1,110 @@
+---
+title: An Infinite Set of Lines Going Up
+published: false
+---
+
+<div>
+<p>
+There is no clear threshold for when we've gone too far. It varies per person, per entity, per company, per nation. The consequences are never clear and understandable. Yet we are already in the middle of them after so little time, and I strongly fear it will get worse.<br><br>
+
+I refuse to call any product or technology "AI". It is neither artificial nor intelligent. What you see, and maybe interact with, is little more than a token prediction model. Rather good ones, mind you. The libraries of data they pull from are immense - and, of course, stolen. Not that it will ever be proven.<br><br>
+
+No leap forward in efficiency for these programs has fundamentally altered the notion that they simply predict the most likely token to appear next in a sequence. You can see this with ChatGPT or Gemini replying to your query. It starts a sentence with no idea how to end it. I can think of people in real life who also act like this, and they're barely preferable.<br><br>
+
+But can you avoid it? The ability decreases on the daily. You might be able to avoid direct use of it, avoiding outsourcing your own thought processes to a machine, but what about when decisions are made for you? When you argue with a "chatbot" on your medical provider's shitty app, sending you in endless loops with no intention of giving you what you need, do you have a choice any more? When your work demands it be embedded in every process, what else can you do?<br><br>
+
+I have seen the inside of one of the Large Language Models that increasingly powers website backends, servers, chatbots, and far more serious things. It is held together with spit and prayers. And the amount of people who truly understand how it works is pitiful. I am not one of them. But I do understand that our future of living is being outsourced to an opaque incomprehensible entity, completely without consent.
+
+<h2>On "Intelligence"</h2>
+Sure I can say that "AI" isn't very artificial nor intelligent. But why? The output is often very verbose and detailed.<br><br>
+
+The chatbots you might know of - ChatGPT, Gemini, CoPilot, Claude - are all Large Language Models at heart. They draw from an absurdly large reservoir of data to answer every query that comes into it. They are tailored to read and speak in natural language terms: the user types a question as they might to a friend, and the LLM responds in a clear, understandable format. This has been fundamental to the surge in popularity of LLMs. The average user does not know what prompt engineering is, never mind have any desire to utilise it. They want an answer with minimal effort. LLMs are perfectly poised to deliver this.<br><br>
+
+For example, you ask ChatGPT to draft an email for you. The LLM will analyse your query, identify important words that correspond with keywords in its data banks, then search those data banks for correlated words and phrases. It then assembles these correlated words and phrases into a readable format, and spits it back to the user.<br><br>
+
+This is a ludicrously simple breakdown. Every single stage of the LLM is fiendishly complex, and it grows in difficulty the more fundamentally simple the question is. Mathematical equations that span the length of a country are easier to answer than a single philosophical question<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>.<br><br> 
+
+One of my favourite examples of phrasing this is: You can get a machine to analyse 10,000 pictures, and pick out ones based on colours fairly easily. A digital picture is comprised of code, so the machine can look at the data and pick out similarities within a certain range. But then you ask the machine to "identify all pictures with a bird in them". <b>How do you teach a machine what a bird is?</b><br><br>
+
+The only viable solution as of 2025 is to feed that machine thousands, millions, billions of pictures and descriptions of birds. An utterly overwhelming amount of examples to drill it home into that silicon shell. So when you give the machine a picture of a bird, there's enough pixel patterns that match with its data banks that makes the machine decide that it's a reasonably accurate match. The <a href="https://en.wikipedia.org/wiki/Decision_tree">decision tree</a> for LLMs to determine this is on an astronomical scale, one that no individual could ever pick apart.<br><br>
+
+How similar is this to the human brain? We have no idea. There could be chemical reaction in our synapses that moves in an inate way we simply can't comprehend. Or maybe the billions of neurons work in a concerningly similar manner to a decision tree. "AI" manufacturers are banking on the latter.<br><br>
+
+Anything that is inherently created in binary data, like mathematics or programming, stands to gain the most from LLMs. Their existence is not affected by being fed into one. To convert anything else into data, you implicitly lose an aspect of it. A text message does not convey all of the emotion behind it. A picture does not fully represent the wonderful experience leading to it. These are our attempts to snapshot and hold onto our fundamental thoughts and being, understandable only to us. When you feed these into an LLM, it does not understand, and the output always reflects this.<br><br>
+
+Programming genuises built LLMs on top of decades of work in neurobiology, neural networks, and deep learning. They should be lauded for their work, as it is fundamentally incredible. But we must draw a line between the definition of these creations, and the wholly separate world of human thinking.<br><br> 
+
+I am blunt in my opinion that use of LLMs is little more than outsourcing your thinking. You can use it like a calculator, and it may not fundamentally differ too much from a physical one. When you ask it to create a shopping list, create recipe ideas, think of birthday present ideas, write a letter, you are sacrificing a part of yourself. To an entity that does not think like you do. Because it does not think.
+
+<h2>The Future is Here (TBC)</h2>
+A tool is nothing without hands to hold it. As powerful as a LLM might be, what it's applied to is of far greater concern than how it currently functions.<br><br>
+
+My hypothetical workplace is an interesting example of this. If I were to ever work in such a company, I might describe it as a gargantuan entity, reaching its growing tendrils into every facet of human life with every passing day. An entity that has amassed such power that it has totally thrown away the pretence of not doing evil, happy to stand with every vile being you could imagine, for the right price. A googolplex of malice.<br><br>
+
+Such a company would be built on decades of experience, talent, and hard work. Despite its best efforts, not all is smooth in a trillion-dollar beast: chains of command are inefficient and cumbersome, data is often siloed, unclear, and contradictory, and the vast quantity of moving parts makes it difficult to figure out what direction it's headed in. Nevertheless you might respect how it grew to its current position.<br><br>
+
+Imagine a presentation is sent around to the entire company one day. Copious slides of information, singing the praises of <a href="https://x.com/karpathy/status/1886192184808149383">"vibe coding"</a>. Look at how many uses it has in our daily work, the presentation proclaims!<br><br>
+
+<figure style="margin: 1rem auto; text-align: center;">
+<img src="/assets/images/blog/ai-1.png" style="max-width: 100%; height: auto; display: block;">
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Death 🙏</figcaption>
+</figure>
+
+Don't review the code changes, just feed it into the LLM and see what it says! Ask the LLM to review that document! Get AI to generate code, and push that shit into prod! Fix it later! With the LLM!<br><br>
+
+The LLM would be pushed deep into every service and product, both internal and external. Your widget has to have an LLM element now. Also why isn't it internally running on the LLM? Why did you make your own code for this?<br><br>
+
+This would give rise to the worst breed of imbecile. Someone who's probably intelligent in other ways, I'm sure, but you just wouldn't see it. This person's job is to "drive things forward". They must speak first on the call, wrap up proceedings on their schedule, and provide their opinion on every single matter. LLMs have turbocharged this brand of yappertron.<br><br>
+
+Imagine you are drafting a hundred lines of code for a future task. Before it's even completed, the yappertron, who's job has no relation to this, sends around an LLM-created summary of what your code does, including your managers, and provides their opinions on said LLM summary. They might also ask you to "check" the LLM summary for them<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">[2]</a></sup>.<br><br>
+
+Security and best practice would go out the window. Envision a meeting where you are flat-out told that we can expedite a project timeline by foisting work on LLMs, submit the completed metrics to management, then "correct" them later if there's any issues. Whatever the LLM prescribes, implement that in prod. Don't worry about the LLM having no concept of data security, or data retention policies, or data privacy. Or local laws and regulations. That's not pertinent to the task at hand.<br><br>
+
+The classic phrase to describe this might be "move fast and break things". Large technology companies have often utilised this, it's not a new concept. LLMs simply provide a new unrivaled speed at which to do this.<br><br>
+
+I have no doubt where the future of such a workplace leads. Unconstrained LLMs will not make your work easier - they will set the new speed at which your work will be demanded, of which there will always be more. Plus the additional work of fixing stuff that the LLM inadvertently broke. Whatever skills you used to bring are now firmly secondary.<br><br>
+
+I was once brought aside in my totally separate workplace, and told that our executives had decided on a target of 30% growth rate. On every department, on every core metric (revenue, profit, user growth, etc), every year. How they reached that figure was never explained. It was simply decided, then it was so. Here is the result.
+
+<h2>Disconnection</h2>
+
+It's hard to maintain a level of knowledge to stay aware of this nonsense, and also stay sane. Similar to relentless negativity in the media, you can only detach yourself so much when you're living in the middle of it.<br><br>
+
+The pervasion of technology into our lives has been relentless. I'm strongly confident that it has broached the point of usefulness, and now actively impedes us. What do you stand to gain from another app on your phone?<br><br>
+
+As our lives grow ever-busier without purpose, the demand on technology to invent a solution grows stronger. I've seen friends on chatbot apps, slightly-more-raunchy chatbot apps, very-raunchy chatbot apps. Funny as it was in the first few days, the dawning realisation that their socialising was ever-increasingly dependent upon a machine was horrifying.<br><br>
+
+The ability to step back from this void grows increasingly difficult. My parents would often remind me that they would socialise via heading into the city centre, to the "old reliable spots", and running into whoever they ran into. How many of us are accessible this way now?<br><br>
+
+Being in the circles I'm in, even moreso than my distrust of technology, has been the catalyst for me to rebase my life centred around local communities. Yet the organisation of this still hinges on technology to hold it all together. The more you try to poke it, prod it, shift away from it, the more fragile it appears. 80% of my social life is dependent on Discord servers staying online.<br><br>
+
+When these services lean into LLMs with every update, it's tougher and tougher just to cling on.
+
+<h2>The Secret Agenda</h2>
+The truth is often stranger than fiction. But to wrap up this tirade, I don't have a grand conclusion. Sometimes the truth is drab and miserable.<br><br>
+
+There's money to be made here. Imagine a company forced to move at such breakneck speeds, complete so many Important Tasks every day, that the entire entity needed to be built and maintained with LLMs in mind. Imagine a solicitor who now doesn't have enough time to read through every page of a legal document, now that there's so much more to do. Imagine a doctor who, rather than providing their insight, relies increasingly on LLM output to reach a decision.<br><br>
+
+A company that provides such LLM services would have a wonderful stranglehold on the flow of information. The business competitive advantage would be immense - how could a fresh startup possibly hope to rival your LLM, when you've spent the last decade scraping and collating the entire Internet to use as a reference?<br><br>
+
+Venture capital investment throws itself at the nearest and loudest thing. Max risk, max reward is the name of the game. The Return on Investment is a fickle being, and must be sated with every offering at our feet. Imagine a game of bronze-ranked Rocket League where 6 cars blindly chase the ball without thought. It's not too dissimilar to that.<br><br>
+
+The capital demands a return. "AI" grabs headlines, attention, investment. Companies try to push boundaries to grow faster than their perceived rivals. All things you already knew.<br><br>
+
+In trying to find a solution to all this, my only finding was that there is no solution. To quote Abba Eban, men and nations behave wisely once they have exhausted all other alternatives.<br><br>
+
+<div class="footnotes" role="doc-endnotes">
+    <ol>
+    <li id="fn:1">
+        <p>Just like in real life.<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:2">
+        <p>The hypothetical recipient of this may be very tempted to get an LLM to review that summary and send it back.<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    </ol>
+</div>
+
+
+</p>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
