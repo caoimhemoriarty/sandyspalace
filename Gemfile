@@ -35,5 +35,5 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 #who fucking knows why GitHub decided to shit itself but here we are
-gem "jekyll", "~> 4.3"
-gem "activesupport", "~> 7.1.0"
+gem "jekyll", "~> 3.10.0"
+#gem "activesupport", "~> 7.1.0"
