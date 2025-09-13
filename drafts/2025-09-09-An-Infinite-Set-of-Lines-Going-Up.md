@@ -1,6 +1,6 @@
 ---
 title: An Infinite Set of Lines Going Up
-permalink: /draft-post/
+permalink: /draft-post/ 
 ---
 
 <div>
