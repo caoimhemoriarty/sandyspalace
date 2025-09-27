@@ -1,0 +1,41 @@
+---
+title: Girls & Boys
+---
+
+<div>
+<p>
+<a href="https://www.imdb.com/title/tt37441935/">Girls & Boys</a> proposes a radical new train of thought: Can Trinity students be redeemed?<br><br>
+
+The path to redemption for Charlie (Liath Hannon) and Jason (Adam Lunnon-Collery) is aided primarily by their culchie accents, which makes every emotion delivered in the film far funnier. We need more of this.<br><br>
+
+Set over a single night in Dublin city, it touches on many aspects of the transfem experience, delves into macho rugby stereotypes and the personality suppression that inevitably follows, and highlights the eternal struggle of finding a reliable dealer on short notice. Overall a solid representation of the 21st century student lifestyle.<br><br>
+
+Liath Hannon is gorgeous and I will fawn over her for an extremely normal length of time. I have no idea what actions in her life led her to star in her first ever film, but I am very grateful for them. Her depiction of the transfem life nails a huge array of issues, anxieties, and fears, into 85 minutes. I wish we could have seen more expression of trans joy, but the plot didn't really allow for it.<br><br>
+
+Adam Lunnon-Collery does a good job of playing a stereotype that annoys me to hell - because I relate to it too much. Jason dodges meaningful questions, bases life decisions around the easy dependable route, and lacks the confidence to stand up for himself. Hence why he studies BESS<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>.<br><br>
+
+He does a solid job in sloppily hiding Jason's insecurities and past issues, resulting in delightful miscommunications and abandonments. By nature of wanting to punch past me in the face, I would also like to punch Jason in the face a similar amount. Sign of a good actor I suppose.<br><br>
+
+Actor Oisin Flynn handles the odious spiteful character Mark. His character's internship in the Irish Times was not explicitly shown but I see it in my heart.<br><br>
+
+The way various issues are presented throughout the film are done thoughtfully and mostly executed well. Donncha Gilmore did his homework and we are very appreciative for that.<br><br>
+
+In the first half, the main conflict is hinted at in many subtle ways. Almost everyone I've spoken to picked up on this via a different scene, or hint, or line of dialogue. Thinking about the first third of the film again, it takes on an interestingly different profile as a result.<br><br>
+
+The second half focuses directly on the conflict and resolution. Outside of being a touch too cliche in one or two scenes, each character is given space to trade barbs and lay out a very relatable history of painful events. Too many to list, frankly.<br><br>
+
+This post is mostly redundant as only the Lighthouse cinema in Dublin is showing this for a few more days. But if the opportunity ever presents itself, Girls & Boys can safely be added to the "Too Fucking Real" watchlist.
+
+
+<div class="footnotes" role="doc-endnotes">
+    <ol>
+    <li id="fn:1">
+        <p>Business, Economics, and Social Sciences degree offered by Trinity College. I went to their open day in 2011, sat in the lecture hall for an introduction to BESS, and watched as a lecturer delivered the most diabolical one-liner I've ever heard in a university. "You could say we're the only university to offer economics and social sciences in the same course, but we prefer to say we're the best at it." I cannot exaggerate how much Trinity people actually think and act like this.<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    </ol>
+</div>
+
+
+</p>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
