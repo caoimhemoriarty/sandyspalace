@@ -41,7 +41,25 @@ It also exposes, once again, that the end user remains the most vulnerable area 
 
 <h2><a href="https://www.bbc.co.uk/future/article/20250911-the-people-who-hunt-down-old-tvs">'You just can't recreate that glow': The people who hunt old TVs</a></h2>
 <blockquote>Byron McDanold is one of the moderators for a Facebook group called The CRT Collective, which at the time of writing has more than 240,000 members. McDanold says that CRT technology has appealing quirks that are impossible to replicate with other technology. "You push the button on the front and it makes that zap, pop noise as it turns on," he says. He argues that many CRT hunters are on an epic quest to recreate specific memories or feelings from their childhoods – they end up obsessing over picture quality in their pursuit of the past.</blockquote>
-Text
+
+
+<h2><a href="https://erysdren.me/blog/2025-08-16/">If you love it, download it</a></h2>
+<blockquote>I have written a few short guides and notes about ways you can help contribute to media preservation by doing it your damn self. Most of the guides lean very technical, but I try to give appropriate explanations and links to the tools and documentation where I can.<br><br></blockquote>
+Despite reassurances from other sites that I have almost certainly seen this somewhere before, I had not in fact seen this somewhere before. Neat little guide for preserving various forms of media. 
+
+<h2><a href="https://daniel.lawrence.lu/blog/y2025m09d21/#s1">Line scan camera image processing</a></h2>
+<blockquote>Line scan cameras are very suitable for capturing trains, since I can capture the full length of the train with minimal perspective distortion. This is super nice for train nerds who want to make models of the trains. Also, as you keep the camera running, you can get incredibly high resolution photos that span over 100,000 pixels wide.<br><br></blockquote>
+A fascinating look at how line scan cameras operate and how they're utilised. Some of the technical aspects did go over my head though.
+
+
+<h2><a href="https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler">Deep in Mordor where the shadows lie: Dystopian tales of that time when I sold out to Google</a></h2>
+<blockquote>I will be honest and say that most of my fellow programmers ate that shit up, we had all been gold-star kids and here was the hottest company in the world constantly massaging our egos, telling us we were better than everyone for being geniuses. I would have loved to feel the same, I tried to feel the same, but I came from poverty and I could not stop noticing the precariat: temps, part-timers, and contractors, an entire layer of the company who did the brunt of work without being Googlers. No toy budget for kitchen staff.<br><br>
+
+It's the little things that bugged me, how people would eat the free candy or have a bowl of cereal and just leave trash and dirty dishes everywhere for the cleaning ladies (contractors) to deal with; more than that the way nobody looked at them or said “thank you”. We Brazilians have a social class for that, a social code underlying that studied invisibility, I knew what this was: these were maids. Servants. The women in my family, my friends at school. The “campus” was pretty open and my then-wife visited it a few times; it creeped the Fuck out of her, the distinction between people and non-people.<br><br></blockquote>
+I've visited Big Tech main headquarters a few times. In the shadow of the Olympic-sized swimming pool, the cleaning staff never spoke.<br><br>
+
+Otherwise this article offers another interesting view on life within Big Tech, with a perspective of someone from the "Global South". The perk-slinging days of the 2010s must have stung even harder with the author's background.
+
 
 <p><h1>Light Reads</h1></p>
 
@@ -55,15 +73,14 @@ I have never played a Pikmin game, but enjoy the thought of oppressing these sil
 <h2><a href="https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles">Wikipedia: Unusual Articles</a></h2>
 I think it'd be cheating if I posted one of these articles on every single What I'm Reading post. So here you go.
 
-<h2><a href="Link">Title</a></h2>
-<blockquote>Text</blockquote>
-Text
+<h2><a href="https://www.presentandcorrect.com/blogs/blog/david-walkers-paper-clip-collection">David Walker's Paper Clip Collection</a></h2>
+It's exactly what you think it is.
 
 
 <div class="footnotes" role="doc-endnotes">
     <ol>
     <li id="fn:1">
-        <p>Or Lucha Libre-styled events, and there is a significant difference.</a><a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+        <p>Or Lucha Libre-styled events, and there is a significant difference.<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
 
     </ol>
