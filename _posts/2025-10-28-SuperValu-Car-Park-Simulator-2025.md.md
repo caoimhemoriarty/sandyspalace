@@ -1,0 +1,124 @@
+---
+title: SuperValu Car Park Simulator 2025
+---
+
+<div>
+<p>
+I did my first track day in two years! And also brought Takumi for the first time! How exciting!<br><br>
+
+This is where the enthusiasm ends. For the money spent, I might as well have bought and raced an ice cream truck.<br><br>
+
+Mondello is a good track - plenty of technical challenging corners, decent amount of undulation, and unpredictable weather. It can be attacked with anything up to the speed of a Formula 3 car, and tests plenty of aspects of car performance and driver skill. Unfortunately it is populated by clowns.<br><br>
+
+The rules of motorsport are there for a reason. "Overtake on the left on the straights only" and "Get the fuck out of faster people's way" are pretty basic ones. There's huge variation in car performance, and the straights are the safest way of sorting cars out. This understanding got thrown out the window within the first hour, as I got divebombed going into a 100kph corner:<br><br>
+
+<p>
+    <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="{{ site.baseurl }}/assets/videos/blog/td-1.mp4" type="video/mp4">
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;"><a href="https://www.youtube.com/watch?v=mS41bHNw1WI">TU TU DU DU</a></figcaption>
+    </figure>
+    </video>
+<p>
+
+Red flag ends the current session, as there's marshals, recovery vehicles, and sometimes ambulances on track. You'd have to be some cretin to overtake needlessly when we're going into the garage-
+
+<p>
+    <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="{{ site.baseurl }}/assets/videos/blog/td-2.mp4" type="video/mp4">
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">If you're wondering why I'm mad, it's the fifth red flag of the day after 90 minutes of running</figcaption>
+    </figure>
+    </video>
+<p>
+
+We had eight red flags throughout the day from imbeciles spinning into the gravel, more than one crash, and zero intelligence applied in changeable conditions.<br><br>
+
+The quantity of cars on track was unmanageable. The track day was fully booked out; either this is too high an amount, or the marshals needed to limit the amount of cars on track at any given time.
+
+<p>
+    <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="{{ site.baseurl }}/assets/videos/blog/td-3.mp4" type="video/mp4">
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">WHY</figcaption>
+    </figure>
+    </video>
+<p>
+
+<p>
+    <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="{{ site.baseurl }}/assets/videos/blog/td-4.mp4" type="video/mp4">
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">THE</figcaption>
+    </figure>
+    </video>
+<p>
+
+<p>
+    <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="{{ site.baseurl }}/assets/videos/blog/td-5.mp4" type="video/mp4">
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">FUCK</figcaption>
+    </figure>
+    </video>
+<p>
+
+<p>
+    <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="{{ site.baseurl }}/assets/videos/blog/td-6.mp4" type="video/mp4">
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">ARE</figcaption>
+    </figure>
+    </video>
+<p>
+
+<p>
+    <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="{{ site.baseurl }}/assets/videos/blog/td-7.mp4" type="video/mp4">
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">YOU</figcaption>
+    </figure>
+    </video>
+<p>
+
+<p>
+    <video controls style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <source src="{{ site.baseurl }}/assets/videos/blog/td-8.mp4" type="video/mp4">
+    <figure style="margin: 1rem auto; text-align: center;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">HERE (also watch this guy own himself lol)</figcaption>
+    </figure>
+    </video>
+<p>
+
+I didn't get a single uninterrupted lap all day, despite the track having 6 hours of availability. Every single time without fail, the red flag would come out, or some clown would park themselves in the middle of the track and refuse to move, or someone would spin directly in front of me. I completely maintain that god is real, she fucking hates me, and I did something as a previous reincarnation that earned me some kind of Sisyphean punishment where imbeciles are bred and raised for decades for the sole purpose of being dropped in front of me while I try to do things and go places.<br><br>
+
+The morning session was mostly dry, with light rain starting to fall around midday. My best lap time was 2:14, but I only got to spend 2/3rds of the lap actually pushing. Maybe 2:05 or 2:00 is doable with Takumi, but I'll never find out.<br><br>
+
+The afternoon session was wet from start to finish, with particularly heavy rain around 3-4pm. This was a lot more challenging, as rather than just chasing lower laptimes, pushing the car to its limits in super tricky conditions was far more interesting. I was hoping to turn off Traction Control at some point, but it became clear I'd be upside-down if I did. Fastest lap in the wet was 2:34, but again heavily interrupted by retards. Maybe sub-2:30 was doable in another universe better than this one.<br><br>
+
+I did have some degree of entertainment. Someone turned up with a Subaru BRZ<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>, and I had fun keeping up with that driver in the afternoon session to see where our differences lay. Takumi was much better under braking, although that could just have been me being more confident. Accelerating out of corners was a key issue for me all day, and I was struggling to match the BRZ here. Otherwise we were pretty evenly-matched and gave each other plenty of room to have fun, which was nice.<br><br>
+
+I was hoping to borrow a GoPro for the day, but frankly I don't think I missed out on much. Moving my dashcam around the car worked sufficiently for the ragebait it outputted<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">[2]</a></sup>.
+
+I am praying the British motorsport scene is better behaved. I want to go to Anglesey soon, and will put up with the insane ferry cost to actually enjoy a track day.
+
+<figure style="margin: 1rem auto; text-align: center;">
+<img src="/assets/images/blog/td-1.jpg" style="max-width: 100%; height: auto; display: block;">
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">My boy deserves it :3</figcaption>
+</figure>
+
+<div class="footnotes" role="doc-endnotes">
+    <ol>
+    <li id="fn:1">
+        <p>Exact same underlying car as the Toyota GT86, but with a different badge<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:2">
+        <p>Also the clock is wrong by an hour on those videos because Daylight Savings Time is stupid<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    </ol>
+</div>
+
+
+</p>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
