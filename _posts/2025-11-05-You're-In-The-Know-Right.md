@@ -1,0 +1,52 @@
+---
+title: You're In The Know, Right?
+---
+
+<div>
+<p>
+Bloodborne is one of my favourite games of all time, and always will be. It's as close to perfection as a FromSoft title is ever going to be. Shame about the PS4 exclusivity though.<br><br>
+
+Director Hidataka Miyazaki, skipping development of Dark Souls 2 and leaving that game in the unproven hands of Tomohiro Shibuya and Yui Tanimura, was planning Bloodborne before Dark Souls 1's DLC was even released. <a href="https://darksouls.wiki.fextralife.com/Marvelous+Chester">Marvelous Chester</a> was a systems check, having a unique character rigging model versus every other model in DS1. This, plus his unusual clothing and bizarre moveset, was Miyazaki testing the waters to see if the Havok engine could handle the new ideas.<br><br>
+
+Three years of development later, Bloodborne did far better than that. Combat was now fast and increasingly ruthless. Immediately upon arrival in Central Yharnam, you are delivered a stark reminder that this is not a Souls title. Poise as a stat had been eliminated - if you got hit even once, your rhythm was shattered. Shields were thoroughly discouraged, with the base game only having one flimsy model, and it was intended as a mocking joke. The game played fast and expected you to keep up.<br><br>
+
+Less openly communicated was the game's surprisingly lenient levels of forgiveness. I-frames provided via dodging were significantly higher, and parrying had an enormous activation window. Naturally, being Bloodborne, parrying now involved shooting your opponent in the face. This also worked with the cannon. Big fan of that.<br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43oKzqPpJNQ?si=0kcgUzLJ5m0CodS_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
+
+Thematically, this game was magnificent. Opaque as usual, but the depth of the worldbuilding was unparalleled. Moving from a moderately-understandable Victorian horror, to the final third of the game descending into Lovecraftian madness, was outstandingly well executed. Every area is dripping with layers of history and meaning, most of it sailing over the heads of new players. On subsequent playthroughs, you see far more - figuratively and literally.<br><br>
+
+The Insight mechanic may have been unusual, but uncovering its implications in the world was stunning. At low or zero levels of Insight, your character simply can't observe and operate on the level that Yharnam exists on, with the hidden bonus of taking less damage from the more horrifying enemy effects. High levels of Insight put you at risk, but the world reveals enemies and entities that were there all along, ignoring you until you became a threat.<br><br>
+
+The world of Yharnam quite literally exists on various levels and planes. The Old Hunters DLC explores and reveals this more, in the most complete piece of work FromSoft has ever pulled off. Physical and cognitive realities are separated from the beginning, and over time your character moves between them - sometimes willingly, sometimes extremely unwillingly.<br><br>
+
+Beings on higher planes can be killed, but seem not to die in a way that makes linear sense. Most still exist, on a level that is incomprehensible and unreachable to you. And sometimes you can bring them back and they get rather mad about it<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>.<br><br>
+
+Everything from the soundtrack, to the architecture, to the hidden meanings behind actions and words spoken, paints the best story in almost any video game I've played. Revelations aren't delivered to you on a platter, you must discover them by yourself. Look at the above video again - for a few frames, you can see the hunter's riposting hand stretch into a beast claw, hinting at the peculiar Yharnam madness being unavoidable to everyone sucked into it. Absolutely nobody in the game will tell you that you're not injecting yourself with <i>regular</i> blood, you piece together the information yourself and then scream internally for a week<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">[2]</a></sup>.<br><br>
+
+Bosses were overall pretty tough, and perhaps demanded a more narrow combat style than the broader approach of Souls games, but were almost always gripping experiences. And the soundtrack was lethal.<br><br>
+
+If there is a downside to Bloodborne, it's that the PvP was poorly thought out. Using bells to signal co-operations or invasions took away player agency, as without password matching (which few knew about) you had no clue were there other players online at the same time and in the same area as you. Plus, the mechanic of rivalling factions could turn an expectant co-operator into an adversary, with no player choice allowed. Perhaps a cool idea, but very ill-executed.<br><br>
+
+I've rarely been as engrossed in a game world. There is nothing else like it, and we likely won't see another similarly radical title via FromSoftware ever again.
+
+<figure style="margin: 1rem auto; text-align: center;">
+<img src="/assets/images/blog/bb-1.jpg" style="max-width: 100%; height: auto; display: block;">
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Bloodborne didn't have one dominant message meme like most Souls games did. The title of this article was an often-spammed message aiming to be deliberately vague and silly. Also "Time for thrust attacks" next to choice NPCs.</figcaption>
+</figure>
+
+<div class="footnotes" role="doc-endnotes">
+    <ol>
+    <li id="fn:1">
+        <p>That's what Annalise gets for telling me to kneel.<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:2">
+        <p>Spoiler: It's menstrual blood. Only women were producing the recovery vials, and the organisation seeking to commune with the gods was called Mensis. Plus whatever the fuck Imposter Iosefka was cooking up.<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    </ol>
+</div>
+
+
+</p>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
