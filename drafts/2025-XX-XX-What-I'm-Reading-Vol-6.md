@@ -1,0 +1,94 @@
+---
+title: What I'm Reading, Volume 6
+---
+
+
+
+<div>
+<p>
+    Previous iterations:<br><br>
+    <ul>
+        <li><a href="https://sandyspalace.ie/2025/05/11/What-I'm-Reading-Vol-1.html">Volume 1</a></li>
+        <li><a href="https://sandyspalace.ie/2025/05/27/What-I'm-Reading-Vol-2.html">Volume 2</a></li>
+        <li><a href="https://sandyspalace.ie/2025/07/02/What-I'm-Reading-Vol-3.html">Volume 3</a></li>
+        <li><a href="https://sandyspalace.ie/2025/09/02/What-I'm-Reading-Vol-4.html">Volume 4</a></li>
+        <li><a href="https://sandyspalace.ie/2025/10/10/What-I'm-Reading-Vol-5.html">Volume 5</a></li>
+    </ul>
+
+Now with videos!
+
+<p><h1>Serious Reads</h1></p>
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+
+<p><h1>Light Reads</h1></p>
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href=link>Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<p><h1>Videos</h1></p>
+
+<h2><a href="https://www.youtube.com/watch?v=dy-wFixuRVU">Making a 2.5kWh Battery Block Using Disposable Vape Batteries</a></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dy-wFixuRVU?si=qUnrDT5fjkh0xSaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
+Comment
+
+<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>
+
+<div class="footnotes" role="doc-endnotes">
+    <ol>
+    <li id="fn:1">
+        <p>nya<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    </ol>
+</div>
+
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>

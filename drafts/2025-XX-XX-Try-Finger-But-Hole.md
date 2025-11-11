@@ -2,7 +2,6 @@
 title: Try Finger But Hole
 ---
 
-
 <div>
 <p>
 A
