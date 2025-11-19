@@ -19,58 +19,64 @@ Now with videos!
 
 <p><h1>Serious Reads</h1></p>
 
-<h2><a href=link>Title</a></h2>
+<h2><a href="https://senmacbrdaigh.substack.com/p/the-future-speaks-irish">The Future Speaks Irish!</a></h2>
+<blockquote>The Irish language revival of today was not designed in government departments; it was built from below. It began in Pop Up Gaeltachtí, podcasts, community cafés and hip-hop. The state tolerated the language - people revived it. From Gaelcholáistí to pop culture, Irish slipped the leash of officialdom and went viral in the best sense.</blockquote>
+I've long been bitter about the way I was "taught" the Irish language, which is not an uncommon sentiment. To see a movement that embraces the language is a very inspiring thing. Plus I enjoy watching the Serious Commentators squirm.
+
+<h2><a href="https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement">Why Signal’s post-quantum makeover is an amazing engineering achievement</a></h2>
+<blockquote>To provide these confidentiality guarantees, the Signal Protocol updates secret key material each time a message party hits the send button or receives a message, and at other points, such as in graphical indicators that a party is currently typing and in the sending of read receipts. The mechanism that has made this constant key evolution possible over the past decade is what protocol developers call a “double ratchet.” Just as a traditional ratchet allows a gear to rotate in one direction but not in the other, the Signal ratchets allow messaging parties to create new keys based on a combination of preceding and newly agreed-upon secrets. The ratchets work in a single direction, the sending and receiving of future messages. Even if an adversary compromises a newly created secret, messages encrypted using older secrets can’t be decrypted.</blockquote>
+<blockquote>The final thing interesting for the triple ratchet is that it nicely combines the best of both worlds. Between two users, you have a classical DH-based ratchet going on one side, and fully independently, a KEM-based ratchet is going on. Then, whenever you need to encrypt something, you get a key from both, and mix it up to get the actual encryption key. So, even if one ratchet is fully broken, be it because there is now a quantum computer, or because somebody manages to break either elliptic curves or ML-KEM, or because the implementation of one is flawed, or…, the Signal message will still be protected by the second ratchet. In a sense, this update can be seen, of course simplifying, as doubling the security of the ratchet part of Signal, and is a cool thing even for people that don’t care about quantum computers.</blockquote>
+The finer details of this technology have comprehensively passed me by. But it gives plenty of reassurance that Signal can preserve safety for at least the next few years.
+
+<h2><a href="https://www.theatlantic.com/politics/archive/2023/05/dr-warren-hern-abortion-post-roe/674000/">The Abortion Absolutist</a></h2>
+<b>Note: The Atlantic requires either starting a free trial or purchasing a subscription in order to read articles. In other news, here's <a href="https://www.removepaywall.com/search?url=https://www.theatlantic.com/politics/archive/2023/05/dr-warren-hern-abortion-post-roe/674000/">Remove Paywall's archive of this article</a>.</b>
+<blockquote>Hern seemed not to notice the strange juxtaposition of it all—the eggnog and the abortions, the cupcakes and the bomb threats. The buttons with the image of his murdered friend and the fact of his own stubborn survival. Of course he didn’t. He has spent five decades living with these contradictions.</blockquote>
+
+<h2><a href="link">Title</a></h2>
 <blockquote>Quote</blockquote>
 Comment
 
-<h2><a href=link>Title</a></h2>
+<h2><a href="link">Title</a></h2>
 <blockquote>Quote</blockquote>
 Comment
 
-<h2><a href=link>Title</a></h2>
+<h2><a href="link">Title</a></h2>
 <blockquote>Quote</blockquote>
 Comment
 
-<h2><a href=link>Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
-
-<h2><a href=link>Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
-
-<h2><a href=link>Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
-
-<h2><a href=link>Title</a></h2>
+<h2><a href="link">Title</a></h2>
 <blockquote>Quote</blockquote>
 Comment
 
 
 <p><h1>Light Reads</h1></p>
 
-<h2><a href=link>Title</a></h2>
+<h2><a href="https://obsoletemedia.org/obsolescence-decade/">Museum of Obsolete Media</a></h2>
+A fascinating collection of media formats that were crushed by the progress of technology. Plenty of charming and innovative attempts at creating media long before they were refined or popularised globally. The <a href="https://obsoletemedia.org/wire-recording/">Wire Recording</a> stands out to me in particular, I just think it's neat.<br><br>
+
+Up to the 1950s, it's a lot of different types of discs. The 1960s sees an explosion in tapes and magnetic reels. The 1980s sees some technology that gives upgrades to existing tech, like <a href="https://obsoletemedia.org/wang-laser-printer-font-cartridge/">printer font cartridges</a>.<br><br>
+
+The more modern the innovations become, the sillier proprietary tecnology looks. Entering the 2000s, I distinctly remember how video game consoles and media formats would suffer if they attempted to push against open standards. Looking at you, PS Vita.<br><br>
+
+My main takeaway from all this: The legacy of the LaserDisc cannot be overestimated.
+
+<h2><a href="https://www.speedhunters.com/2015/01/the-oddest-car-park-in-the-world/">The Oddest Car Park In The World?</a></h2>
+<blockquote>But why virtually destroy what was hailed as one of the most impressive theatres of its kind, only to fill it with a steel-framed, multi-storey car park? It opened in the ’20s when live performances were still popular and the original owner was a guy called John H. Kunsky who sold it sometime after. It then passed through a number of different owners and as the world moved on I guess it’s relevance faded. But like Detroit itself, the building is a survivor.</blockquote>
+A unique tale of architectural desecration.
+
+<h2><a href="link">Title</a></h2>
 <blockquote>Quote</blockquote>
 Comment
 
-<h2><a href=link>Title</a></h2>
+<h2><a href="link">Title</a></h2>
 <blockquote>Quote</blockquote>
 Comment
 
-<h2><a href=link>Title</a></h2>
+<h2><a href="link">Title</a></h2>
 <blockquote>Quote</blockquote>
 Comment
 
-<h2><a href=link>Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
-
-<h2><a href=link>Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
-
-<h2><a href=link>Title</a></h2>
+<h2><a href="link">Title</a></h2>
 <blockquote>Quote</blockquote>
 Comment
 
@@ -78,7 +84,13 @@ Comment
 
 <h2><a href="https://www.youtube.com/watch?v=dy-wFixuRVU">Making a 2.5kWh Battery Block Using Disposable Vape Batteries</a></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dy-wFixuRVU?si=qUnrDT5fjkh0xSaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
-Comment
+I love watching electrical engineers do silly things. Vapes are stupid and an exorbitant waste of resources. This video was a treat.
+
+<h2><a href="https://www.youtube.com/watch?v=ZFP0k7K9v1s">I Wargamed with NATO - Inside the Cross-Domain Command Wargame</a></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFP0k7K9v1s?si=YCd35EEClOcrP6j8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
+<s>I'm not a Wehraboo but</s> The details in this NATO wargame was fascinating. Strongly resembling aspects of the Russia-Ukraine conflict, this video highlighted many aspects of modern war that I didn't consider before.<br><br>
+
+Plus it gives me reassurance that NATO generals also engage in semantic rule arguments. Maybe my D&D campaign's sessions aren't that unusual after all.
 
 <sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>
 
