@@ -75,7 +75,7 @@ I still fawn over people too much. People fuck me over, and I let them in the mo
 
 Analysing how I handle interacting with people has been very challenging. Being forced to tackle the realisation that you bend over for other people in conflicts leaves a hard taste once you realise how often it's happened. The upside is that I'm attempting to skew my fawning over people into a positive thing. I'm in a much healthier and safer position in life, and better able to provide for people around me whom I love very much. Once my own needs are still met, it feels a lot better.<br><br>
 
-The bitter thoughts do not leave me. But there are things to fight for now. It's more than enough.
+The bitter thoughts do not leave me. But there are things to fight for now. It's more than enough..
 
 <div class="footnotes" role="doc-endnotes">
     <ol>
