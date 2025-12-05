@@ -1,0 +1,45 @@
+---
+title: Outlive The Bastards
+---
+
+<div>
+<p>
+<blockquote>“One final paragraph of advice: do not burn yourselves out. Be as I am - a reluctant enthusiast....a part-time crusader, a half-hearted fanatic. Save the other half of yourselves and your lives for pleasure and adventure. It is not enough to fight for the land; it is even more important to enjoy it. While you can. While it’s still here. So get out there and hunt and fish and mess around with your friends, ramble out yonder and explore the forests, climb the mountains, bag the peaks, run the rivers, breathe deep of that yet sweet and lucid air, sit quietly for a while and contemplate the precious stillness, the lovely, mysterious, and awesome space. Enjoy yourselves, keep your brain in your head and your head firmly attached to the body, the body active and alive, and I promise you this much; I promise you this one sweet victory over our enemies, over those desk-bound men and women with their hearts in a safe deposit box, and their eyes hypnotized by desk calculators. I promise you this; You will outlive the bastards.”</blockquote>
+
+I have never engaged with Edward Abbey's work before. This quote burrowed through to me years ago, probably through Tumblr, and came to mind recently at a very specific moment.<br><br>
+
+I - and we - exist under relentless attack. Our access to healthcare is political football for headline-chasers and professional imbeciles. Our ability to walk down the street, how we piss, how we access the same basic resources as anyone else is open game for endless bile and hatred. Journalists and grifters squash our existence while simultaneously screaming how they're silenced, their voices echoing loudly through every piece of media every day of the week. How I wish their last day on this planet was lived in our shoes.<br><br>
+
+To be told the best act of resistance is love isn't enough. I do not love these scum. By design, they will never understand, and will never make the effort to. Why would they? Our lives are too ripe for exploitation. I already give them far more respect than they deserve. No, resistance is a dogged act.<br><br>
+
+Stop the quivering performance. You will go on as you always do. We will simply do the same.<br><br>
+
+There's been several eye-opening moments for me in the past few years. Realisations that we can simply <i>do</i> things never before imagined. These rolling revelations haven't stopped. I can live and love in ways I was never able to before, and nothing can stop this.<br><br>
+
+So we live. But only in a way that works for us. We dictate how we breathe, how we act, how we medicate, how we live and how we die. How long did I spend dancing to other peoples' tunes, hoping and begging to be given basic respect, only to be thrown aside? Never again.<br><br>
+
+I wonder how Edward would consider my interpretation of his speech. I'm a reluctant enthusiast by trade, doing things that I dearly wish weren't necessary, but we stay alive regardless. A part-time crusader when the anger boils over and I push myself out of my lover's embrace and into the cold outside. A half-hearted fanatic when I defend my existence.<br><br>
+
+Do I fight for the land? I love it, sure, but strongly suspect my actions don't go far enough. I am knee-deep in the urban desecration that he so despised. The nature around my house is human-designed and maintained, nothing allowed to grow out of proportion for fear of offending the land "owners". It's not true nature.<br><br>
+
+My interpretation of Edward's passion is where he strikes the balance between preserving our sanity and maximising our days on this planet. I do it with friends and loved ones every day, and I will never let go of it. Even if I'm more attached to screens than I would like. I am not entranced by the lull of numbers going up, of preserving capital, of hiding myself in a glass box until my pension plan activates. No, I live now.<br><br>
+
+So I have embraced this quote and tethered it to my values<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>. I think of it when being a reluctant enthusiast, a part-time crusader, and a half-hearted fanatic. When I'm full of love and when I'm boiling over with anger and bitterness. I would like it to be associated with my life. If at the end of it all, it fits appropriately, I will be very pleased.<br><br>
+
+After all, I am nothing if not a petty bitch :3
+
+
+<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>
+
+<div class="footnotes" role="doc-endnotes">
+    <ol>
+    <li id="fn:1">
+        <p>Is it obvious that this is a thing I've been working on with a therapist? I'm not sure which answer is funnier.<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    </ol>
+</div>
+
+
+</p>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
