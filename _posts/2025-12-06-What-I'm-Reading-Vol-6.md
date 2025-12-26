@@ -3,10 +3,10 @@ title: What I'm Reading, Volume 6
 ---
 
 
-
+c
 <div>
 <p>
-    Previous iterations:<br><br>
+    Previous iterations:<br>
     <ul>
         <li><a href="https://sandyspalace.ie/2025/05/11/What-I'm-Reading-Vol-1.html">Volume 1</a></li>
         <li><a href="https://sandyspalace.ie/2025/05/27/What-I'm-Reading-Vol-2.html">Volume 2</a></li>
@@ -32,21 +32,19 @@ The finer details of this technology have comprehensively passed me by. But it g
 <b>Note: The Atlantic requires either starting a free trial or purchasing a subscription in order to read articles. In other news, here's <a href="https://www.removepaywall.com/search?url=https://www.theatlantic.com/politics/archive/2023/05/dr-warren-hern-abortion-post-roe/674000/">Remove Paywall's archive of this article</a>.</b>
 <blockquote>Hern seemed not to notice the strange juxtaposition of it all—the eggnog and the abortions, the cupcakes and the bomb threats. The buttons with the image of his murdered friend and the fact of his own stubborn survival. Of course he didn’t. He has spent five decades living with these contradictions.</blockquote>
 
-<h2><a href="link">Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
+<h2><a href="https://eev.ee/blog/2025/07/03/the-rise-of-whatever/">The Rise Of Whatever</a></h2>
+<blockquote>And so you have what I can only call a culture of Whatever.  Bitcoin failed as a currency because the people who got most invested in it do not care about currency — it could be bottled dragon farts for all they care, except that putting it on the computer means there’s no need to actually worry about a product.  It’s just something to pump the value of; the underlying asset could be, well, Whatever.  And Bitcoin itself is open source, so you can copy it and make your very own coin, your very own Whatever.  With NFTs, you can make an entire family of “collectible” Whatevers — a strange descriptor given that you can’t actually collect one of each of them, but who really cares if the description makes sense?  It doesn’t matter what the art is, or how the technology works, or what the tokens are attached to.  It just has to be something you can convince other people to buy.  The actual thing can be Whatever.</blockquote>
+Another piece tearing into AI. I'm still in this state of derision for a while longer it seems. 
 
-<h2><a href="link">Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
+<h2><a href="https://blog.lauramichet.com/people-filming-themselves-in-nature/">People filming themselves in nature</a></h2>
+<blockquote>These videos are often about the joy of being alone in nature. They have a diaristic quality, and they're full of footage filmed with a camera in the hands. But the third-person footage implies the presence of a team filming the subject, which only reminds you that there's no team, which in turn just reminds you, every time, that the Youtuber walked up to the camera spot, set it up there, walked back down the hill, then re-walked this path, possibly multiple times, in order to capture the perfect shot of themselves alone in nature.</blockquote>
+A sharp little piece on the YouTube culture of selling the appeal of aesthetic lifestyles.<br><br>
 
-<h2><a href="link">Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
+The choice of video to analyse is interesting. It's visually stunning and inherently hollow. Also I like planes and am very susceptible to this type of appealing ~content~.
 
-<h2><a href="link">Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
+<h2><a href="https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/">Japan to revise romanization rules for first time in 70 years</a></h2>
+<blockquote>The council’s recommendation also adopts Hepburn spellings for し, じ and つ as shi, ji, and tsu, compared to the Kunrei spellings of si, zi and tu. </blockquote>
+A funny moment of realisation here that what little Japanese I knew wasn't even officially correct. Curious language.
 
 
 <p><h1>Light Reads</h1></p>
@@ -64,9 +62,12 @@ My main takeaway from all this: The legacy of the LaserDisc cannot be overestima
 <blockquote>But why virtually destroy what was hailed as one of the most impressive theatres of its kind, only to fill it with a steel-framed, multi-storey car park? It opened in the ’20s when live performances were still popular and the original owner was a guy called John H. Kunsky who sold it sometime after. It then passed through a number of different owners and as the world moved on I guess it’s relevance faded. But like Detroit itself, the building is a survivor.</blockquote>
 A unique tale of architectural desecration.
 
-<h2><a href="link">Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
+<h2><a href="https://www.nintendolife.com/news/2025/11/huge-super-mario-64-trick-that-will-change-speedruns-forever-has-been-discovered">Huge Super Mario 64 Trick That Will Change Speedruns "Forever" Has Been Discovered</a></h2>
+<blockquote>Bubzia, a speedrunner who specialises in blindfolded speedruns, has documented the discovery of this new technique that has essentially wiped out one of the most famous skips in the game, the side backwards long jump [...] Two speedrunners — FramePerfection and Crackhex — have found a workaround that eliminates the need to even do this. Amusingly, it's been dubbed the "crackslide" by the community, and while the the original trick was created using emulation tools, runner haribo39 managed to recreate the trick.</blockquote>
+Super Mario 64 speedrunning continues to be delightfully inexplicably enjoyable to me. No I've never played it. 
+
+<h2><a href="https://en.wikipedia.org/wiki/List_of_notorious_markets">List of notorious markets</a></h2>
+This one wasn't on <a href="https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles">Wikipedia's Unusual Articles list</a> so it's earned a space here. Read: List of good websites. 
 
 <h2><a href="link">Title</a></h2>
 <blockquote>Quote</blockquote>
