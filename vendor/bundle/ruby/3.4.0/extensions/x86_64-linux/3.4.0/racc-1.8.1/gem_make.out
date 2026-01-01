@@ -1,0 +1,18 @@
+current directory: /home/nito/sandyspalace/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/nito/sandyspalace/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260101-37924-w1p2gh sitelibdir\=./.gem.20260101-37924-w1p2gh clean
+
+current directory: /home/nito/sandyspalace/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260101-37924-w1p2gh sitelibdir\=./.gem.20260101-37924-w1p2gh
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/nito/sandyspalace/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260101-37924-w1p2gh sitelibdir\=./.gem.20260101-37924-w1p2gh install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20260101-37924-w1p2gh/racc
+
+current directory: /home/nito/sandyspalace/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260101-37924-w1p2gh sitelibdir\=./.gem.20260101-37924-w1p2gh clean
