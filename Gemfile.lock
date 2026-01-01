@@ -19,6 +19,7 @@ GEM
     base64 (0.2.0)
     benchmark (0.4.0)
     bigdecimal (3.1.8)
+    cgi (0.4.2)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -35,7 +36,8 @@ GEM
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
-    erb (6.0.1)
+    erb (4.0.4)
+      cgi (>= 0.3.3)
     ethon (0.16.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
@@ -324,7 +326,7 @@ PLATFORMS
 
 DEPENDENCIES
   base64 (~> 0.2.0)
-  erb (~> 6.0)
+  erb (< 5.0)
   github-pages (~> 232)
   http_parser.rb (~> 0.6.0)
   jekyll (~> 3.10.0)

@@ -1,0 +1,102 @@
+---
+title: What I'm Reading, Volume 7
+---
+
+<div>
+<p>
+    Previous iterations:<br><br>
+    <ul>
+        <li><a href="https://sandyspalace.ie/2025/05/11/What-I'm-Reading-Vol-1.html">Volume 1</a></li>
+        <li><a href="https://sandyspalace.ie/2025/05/27/What-I'm-Reading-Vol-2.html">Volume 2</a></li>
+        <li><a href="https://sandyspalace.ie/2025/07/02/What-I'm-Reading-Vol-3.html">Volume 3</a></li>
+        <li><a href="https://sandyspalace.ie/2025/09/02/What-I'm-Reading-Vol-4.html">Volume 4</a></li>
+        <li><a href="https://sandyspalace.ie/2025/10/10/What-I'm-Reading-Vol-5.html">Volume 5</a></li>
+        <li><a href="https://sandyspalace.ie/2025/12/06/What-I'm-Reading-Vol-6.html">Volume 6</a></li>
+    </ul>
+
+<p><h1>Serious Reads</h1></p>
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<p><h1>Light Reads</h1></p>
+
+<h2><a href="https://spoon-tamago.com/duct-tape-typographer-shuetsu-sato-honored-with-design-award/">Duct-Tape Typographer Shuetsu Sato Honored With Design Award</a></h2>
+<blockquote>Over the years, a cultish appreciation has grown for Shuetsu Sato’s work with fans dubbing his clean-line, rounded edge typography as Shuetsu-tai (Shuetsu font).</blockquote>
+Unusual fonts in foreign languages usually throw me off, but Sato's design is suprisingly easy to intuitively pick up. 
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<h2><a href="link">Title</a></h2>
+<blockquote>Quote</blockquote>
+Comment
+
+<p><h1>Videos</h1></p>
+
+<h2><a href=link>Title</a></h2>
+Insert video embed here<br><br>
+Comment
+
+<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>
+
+<div class="footnotes" role="doc-endnotes">
+    <ol>
+    <li id="fn:1">
+        <p>nya<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    </ol>
+</div>
+
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
