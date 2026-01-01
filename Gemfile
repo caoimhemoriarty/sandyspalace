@@ -40,3 +40,4 @@ gem "jekyll", "~> 3.10.0"
 gem "erb", "~> 6.0"
 gem "base64", "~> 0.2.0"
 gem "ostruct", "~> 0.6.3"
+gem 'erb', '<5.0'
