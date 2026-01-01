@@ -37,7 +37,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 #who fucking knows why GitHub decided to shit itself but here we are
 gem "jekyll", "~> 3.10.0"
 #gem "activesupport", "~> 7.1.0"
-gem "erb", "~> 6.0"
+#gem "erb", "~> 6.0"
 gem "base64", "~> 0.2.0"
 gem "ostruct", "~> 0.6.3"
 gem 'erb', '<5.0'
