@@ -1,0 +1,18 @@
+current directory: /home/nito/sandyspalace/vendor/bundle/ruby/3.4.0/gems/cgi-0.4.2/ext/cgi/escape
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/nito/sandyspalace/vendor/bundle/ruby/3.4.0/gems/cgi-0.4.2/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20260201-139456-rc87a9 sitelibdir\=./.gem.20260201-139456-rc87a9 clean
+
+current directory: /home/nito/sandyspalace/vendor/bundle/ruby/3.4.0/gems/cgi-0.4.2/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20260201-139456-rc87a9 sitelibdir\=./.gem.20260201-139456-rc87a9
+compiling escape.c
+linking shared-object cgi/escape.so
+
+current directory: /home/nito/sandyspalace/vendor/bundle/ruby/3.4.0/gems/cgi-0.4.2/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20260201-139456-rc87a9 sitelibdir\=./.gem.20260201-139456-rc87a9 install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20260201-139456-rc87a9/cgi
+
+current directory: /home/nito/sandyspalace/vendor/bundle/ruby/3.4.0/gems/cgi-0.4.2/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20260201-139456-rc87a9 sitelibdir\=./.gem.20260201-139456-rc87a9 clean
