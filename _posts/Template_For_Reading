@@ -47,6 +47,7 @@ Comment
 <blockquote>Quote</blockquote>
 Comment
 
+
 <p><h1>Light Reads</h1></p>
 
 <h2><a href="link">Title</a></h2>
@@ -81,9 +82,20 @@ Comment
 <blockquote>Quote</blockquote>
 Comment
 
+
+<p><h1>Cool Sites</h1></p>
+<h2><a href="link">Title</a></h2>
+Comment
+
+<h2><a href="link">Title</a></h2>
+Comment
+
+<h2><a href="link">Title</a></h2>
+Comment
+
 <p><h1>Videos</h1></p>
 
-<h2><a href=link>Title</a></h2>
+<h2><a href="link">Title</a></h2>
 Insert video embed here<br><br>
 Comment
 
