@@ -1,0 +1,81 @@
+---
+title: Games Roundup, Volume 2
+---
+
+<div>
+<p>
+
+A recent change in ADHD meds has really hampered the progress I was making in a few different areas. But I still have some fun experiences to yap about :3<br><br>
+
+Previous iterations:<br>
+<ul>
+    <li><a href="https://sandyspalace.ie/2025/10/02/Games-Roundup-Vol-1.html">Volume 1</a></li>
+</ul>
+
+
+<h2><a href="https://store.steampowered.com/app/820630/Metal_Wolf_Chaos_XD/">Metal Wolf Chaos</a></h2>
+Finally, a <i>real</i> From Software game!<br><br>
+
+There is not much drive to make Metal Wolf Chaos intricate, deep, or gripping. It is mechanically flat, with levels that are often uncreative and dragged-out, especially in the end-game. Glitches were few but obvious, and would have been caught via either proper testing or a longer development cycle.<br><br>
+
+However, it was developed with an incredibly ironic view of American exceptionalism that I find charming. FromSoft producer Masanori Takeuchi came out with <a href="https://www.destructoid.com/from-software-reflects-on-metal-wolf-chaos-its-american-mecha-fever-dream/">this banger quote about the game's development</a>: 
+
+<blockquote>It is America as perceived by the Japanese. It’s completely fictional, but at the time, it was our idea of this ideology of American culture and comic book heroes, and we pieced that together and it became the president piloting the mech. We think that when Japanese look at it that way, from the American point of view, it’s almost like how they imagine a Japanese ninja, and sort of the same ideologies, the same kind of fantasy, so it goes two ways.<br><br>
+
+“Originally we had this dynamic between President Michael Wilson and Vice President Richard Hawk, and we wanted it to be this comic book hero dynamic of good versus evil. In terms of our initial image for Richard Hawk, we looked at WWF – the heroes and the antagonists there. The bad guys even have their own sense of justice and personality and they think they’re right and they’re very bombastic, and we wanted to base the character on that sort of idea.</blockquote>
+
+Basing American politics around WWF (now known as WWE) is an inspired move that I refuse to critique. The game is unapolegetically bombastic, and <a href="https://www.youtube.com/watch?v=30BFiSOP8JU">this short summary of the game</a> experience is unironically all you really need to experience this ludicrous parody. You play as the virtuous RICHARD, and you're taking on the evil MMMMMMMMICHAEL. What else do you need to know?<br><br>
+
+That said, releasing a game solely in Japan on the original Xbox is... less genius. 
+<h2><a href="https://store.steampowered.com/agecheck/app/1086940/">Baldur's Gate 3</a></h2>
+I recently finished my third full playthrough of this game. Its depth and detail remains as wonderful as ever, even if I feel I've explored enough of it that I couldn't do so again for many years.<br><br>
+
+My first playthough two years ago was blind, making ill-advised choices that broke several character plot lines, and left me with an ultimately hindered experience. And it still gripped me. By the time I completed my second and third playthroughs, Larian had patched and tweaked the game such that BG3 was more rounded and reliable. With the quest-ending issues resolved, I found even more to love, and even more choice that I never before knew existed.<br><br>
+
+The characters have plenty of depth, with enough fanservice sprinkled on top that you could be entertained in countless different ways. Side quests are intricate enough that you can play most of them in five different ways, and often more. The main quest rambles a bit, but is ultimately a solid and satisfying one.<br><br>
+
+Combat is ludicrously fast if you're used to a D&D 5th Edition combat round taking an entire fucking hour<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>. Once you're up to speed, you may get frustrated with 20 enemy units moving in a row, but otherwise it's pretty satisfying (and exploitable).<br><br>
+
+On the flip side, Act 3 is still buggy and laggy. The game doesn't appear to be well-optimised, and a strong PC is a big advantage getting through this section.<br><br>
+
+I'll do a fourth playthrough in many, many years time. And once again I'll be the Dark Urge, and yet again there'll be a whole other approach I can employ. And I'll be extra evil :3
+
+<h2><a href="https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_2020_40th_Anniversary_Edition/">Microsoft Flight Simulator (2020)</a></h2>
+I recently went through a resurgence of enjoying this again. It's tickling fancies of pursuing a Private Pilot's License, though realistically I think this game will be sufficient for me.<br><br>
+
+With only a game controller on hand rather than a joystick or a full-on simulator, the realism is limited. I can't control even a simple Cessna in full with this kind of setup, so instead I lean towards adding a new process step every flight - more hands-on manual control of the craft, or navigating IFR flights, or doing silly landing challenges.<br><br>
+
+The 2024 edition of this game doesn't really look like much of an upgrade, so I'll stick at this a bit longer. Whenever I call it quits, I will have such absurd knowledge of the Garmin G1000 navigation unit the chartered flight companies will be begging for my mad skills.
+
+<h2><a href="https://store.steampowered.com/app/2585830/Promise_Mascot_Agency/">Promise Mascot Agency</a></h2>
+This was an unexpected Christmas gift, and a very charming one. It offers a quick playthrough in about 15 hours, adding on a few more if you feel like being a completionist. It's well-balanced in this regard, as stretching it out further would make it feel excessively grindy.<br><br>
+
+The gameplay loop is easy to pick up, and you can settle into a nice rhythm every time you play. Though I would criticise that it's very easy to miss power-ups and upgrades that significantly streamline the gameplay loop, and these are often critical to finding the game satisfying. I had to look up where a handful of these upgrades were, and without these I would have complained about "grindiness" a lot sooner.<br><br>
+
+For the first hour, you're clinging on to tight pursestrings. This facade doesn't last long, and once you've built the foundation of your little business empire, the snowball of revenue and profit becomes absurd before the halfway mark. This is simultaneously very funny and also would probably benefit from being balanced a bit more carefully.<br><br>
+
+Truly the comfy kei truck propaganda we all needed 👍
+
+<h2><a href="https://store.steampowered.com/app/2610650/Dont_Stop_Girlypop/">Don't Stop, Girlypop!</a></h2>
+Look, if you're buying this game, you know exactly what you're getting into, and you're doing it to yourself.<br><br>
+
+Don't Stop Girlypop is a fascinating flavour of brainrot, tuned to appeal to terminally online transfems. Or at least that's where all the reception to it was found. It is unapologetic about taking inspiration from Ultrakill, trying to prioritise breakneck speed while lacking that game's intricacies. Once you learn how to speed boost, you'll almost always be at maximum speed, allowing the game to power up the ear-splitting music and eye-watering saturation to unprecedented levels.<br><br>
+
+It also shows its hand quite early, gifting you all techniques and weapons before the halfway mark. Once the game has given you all of its tools, the repetition of the levels becomes more obvious. Still though, it slays.
+
+<h2><a href="https://store.steampowered.com/app/1229490/ULTRAKILL/">ULTRAKILL</a></h2>
+I'm very early on in this game. But it treats you with respect immediately, and makes it clear that the skill ceiling for this game is going to be high. Then it hands you a bunch of fun weapons, and lets you figure out their intricacies. Big fan of all that. Hope it keeps this form up.<br><br>
+
+
+<div class="footnotes" role="doc-endnotes">
+    <ol>
+    <li id="fn:1">
+        <p>This happened once and I will never forget it.<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    </ol>
+</div>
+
+
+</p>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
