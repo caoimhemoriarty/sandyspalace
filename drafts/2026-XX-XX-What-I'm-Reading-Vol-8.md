@@ -98,8 +98,8 @@ Comment
 
 
 <p><h1>Cool Sites</h1></p>
-<h2><a href="link">Title</a></h2>
-Comment
+<h2><a href="https://blackhole-simulation.vercel.app/">Black Hole Simulation</a></h2>
+A neat site that lets you simulate a black hole with many variables that I often don't understand. Source code available <a href="https://github.com/steeltroops-ai/blackhole-simulation">here</a>.
 
 <h2><a href="link">Title</a></h2>
 Comment
