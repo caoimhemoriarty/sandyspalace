@@ -1,36 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+title: What I'm Reading, Volume 8
+---
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>What I'm Reading, Volume 8 | Sandy's Palace</title>
-    <link rel="stylesheet" href="/assets/css/main.css"> 
-</head>
-
-<body>
-    <header class="header">
-        <nav>
-    <ul class="right">
-        <li><a href="https://sandyspalace.ie/">Home</a></li> 
-        <li><a href="https://sandyspalace.ie/about.html">About</a></li>
-        <li><a href="https://sandyspalace.ie/blog.html">Blog</a></li>
-        <li><a href="https://sandystream.xyz">:3</a></li> 
-    </ul>
-</nav> 
-    </header>
-
-    <main>
-    <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">What I&#39;m Reading, Volume 8</h1>
-  </header>
-
-  <div class="post-content">
-    <div>
+<div>
 <p>
-    Previous iterations:<br /><br />
+    Previous iterations:<br><br>
     <ul>
         <li><a href="https://sandyspalace.ie/2025/05/11/What-I'm-Reading-Vol-1.html">Volume 1</a></li>
         <li><a href="https://sandyspalace.ie/2025/05/27/What-I'm-Reading-Vol-2.html">Volume 2</a></li>
@@ -45,7 +19,7 @@
 
 <h2><a href="https://artificialbureaucracy.substack.com/p/kill-chain">Kill Chain</a></h2>
 <blockquote>Clausewitz had a word for everything the optimization leaves out. He called it “friction,” the accumulation of uncertainty, error, and contradiction that ensures no operation goes as planned. But friction is also where judgment forms. Clausewitz observed that most intelligence is false, that reports contradict each other. The commander who has worked through this learns to see the way an eye adjusts to darkness, not by getting better light but by staying long enough to use what light there is. The staying is what takes time. Compress the time and the friction does not disappear. You just stop noticing it. Clausewitz called what unfolds when you refused to notice a “war on paper,” a plan that proceeds without resistance because everything that connected it to the world it was supposed to act on has been taken out.</blockquote>
-I think of <a href="https://en.wikipedia.org/wiki/Vasily_Arkhipov">Vasily Arkhipov</a> when reading this paragraph. Vasily was part of a decision-making chain unique to his B-59 nuclear submarine, and his sole objection to launching a nuclear torpedo is widely credited with preventing World War 3. In the smaller-scale war operation of "carpet bombing six thousand Iranian targets, plus or minus a school", people like Vasily do not appear to be part of the decision chain any more.<br /><br />
+I think of <a href="https://en.wikipedia.org/wiki/Vasily_Arkhipov">Vasily Arkhipov</a> when reading this paragraph. Vasily was part of a decision-making chain unique to his B-59 nuclear submarine, and his sole objection to launching a nuclear torpedo is widely credited with preventing World War 3. In the smaller-scale war operation of "carpet bombing six thousand Iranian targets, plus or minus a school", people like Vasily do not appear to be part of the decision chain any more.<br><br>
 
 Also a note on Google in this piece. In 2018, they dropped out of a contract that would have seen them provide AI targeting systems for the Pentagon, after massive internal backlash. By 2024, they were far better prepared. They were providing cloud computing and AI systems to the Israeli government, with no safeguards in place to ensure that it would not be used for war. Workers protested again, and <a href="https://www.theguardian.com/technology/2024/apr/18/google-fires-staff-protest-israel-contract">28 of them were fired</a>, including people who weren't even in-person at these protests. CEO Sundar Pichai sent out an internal email after this, stating:
 
@@ -56,14 +30,14 @@ The plucky startup ethos was well and truly, and finally, killed off on this day
 <h2><a href="https://www.theverge.com/business/881967/polymarket-kalshi-journalism-sponsorship-ad">Prop Bet</a></h2>
 <b>Note:</b> Paywalled article, <a href="https://removepaywalls.com/https://www.theverge.com/business/881967/polymarket-kalshi-journalism-sponsorship-ad">archived link is available here</a>.
 <blockquote>So by partnering with these betting markets, news organizations — from the legacy entities like WSJ or CNN to the burgeoning new media platforms like Substack — have undercut themselves two ways: first, by commodifying information and then by effectively endorsing competitors who can pay for that information; and second, by serving as advertising for prediction markets, making their audience vulnerable to getting ripped off by insiders. It is unclear to me how helping gambling companies rip off your audience serves the public interest, which is, or at least once was, the point of newsgathering.</blockquote>
-The point that Serious Commentators and mainstream media outlets would vastly prefer to report on pseudo-events rather than real events is an interesting one.<br /><br />
+The point that Serious Commentators and mainstream media outlets would vastly prefer to report on pseudo-events rather than real events is an interesting one.<br><br>
 
-Closer to home, I have always disliked the Irish Times for its clinging to the coattails of Fianna Gael goverment. Reporting pre-approved soundbites that grab headlines, squashing dissent or outright ignoring it, or pushing one-sided narratives that maintain the status quo. This is done to protect their well-established pipeline from "journalist" to government advisor positions. That, plus I hate their property supplement.<br /><br />
+Closer to home, I have always disliked the Irish Times for its clinging to the coattails of Fianna Gael goverment. Reporting pre-approved soundbites that grab headlines, squashing dissent or outright ignoring it, or pushing one-sided narratives that maintain the status quo. This is done to protect their well-established pipeline from "journalist" to government advisor positions. That, plus I hate their property supplement.<br><br>
 
 
 <h2><a href="https://innerspiral.lol/Blog/mud/mud">The Waters Are Already Muddy</a></h2>
 <blockquote>So they push this "think of the children" narrative that has essentially removed all of those boundaries. It used to be that there were adult spaces and kid spaces but now, it feels like every space has to be safe for a 6 year old. Which means no space is safe for an adult. We’re all walking on eggshells, self-censoring, saying "seggs" instead of sex, "unalive" instead of kill, and turning our language into this infantile mush because the algorithm punishes reality.</blockquote>
-Near the start of this article, the quote "a language designed for people who are terrified of being caught caring about anything" caught my eye. It replicated <a href="https://imgur.com/CbkKHDD">a criticism of South Park</a> I read many years prior.<br /><br />
+Near the start of this article, the quote "a language designed for people who are terrified of being caught caring about anything" caught my eye. It replicated <a href="https://imgur.com/CbkKHDD">a criticism of South Park</a> I read many years prior.<br><br>
 
 Apathy towards caring predates any recent deliberate push to manufacture it. And yet it is still heavily manufactured.
 
@@ -135,8 +109,25 @@ Comment
 
 <p><h1>Videos</h1></p>
 
+<h2><a href="https://www.youtube.com/watch?v=IdPuXWIPLMg">The Tekken 8 Bot That Won Games with Only Left Kicks</a></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IdPuXWIPLMg?si=eK6hoBHDGy6dK3ef" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
+<b>Original title of this video is "Three - The Machine That Took Over Tekken", however I prefer to use DeArrow titles to reduce clickbait.</b><br><br> 
+
+I have a strong distaste for bots in online games, but I'll entertain the questions raised by this one.<br><br>
+
+Eddy has been a button-masher character since Tekken 3, as this video points out. I've used this character to impress cute girls<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup> in arcades because I can string together semi-decent combos out of him with three-button input and it looks flashy. Mashing '3' highlights more things about the development of modern Tekken games, mind you.<br><br>
+
+Repeated button input can chain into easy combos with increasing ease, as each Tekken title comes out. 7 and 8 are particularly notorious for this. As with any competitive game, understanding how the mechanics work will provide several escape methods for this behaviour, but it's not immediately intutitive to a novice player. I utilised similar techniques in other games, generally abusing stunlocks in Dark Souls 1 to players that didn't know how to toggle escape.<br><br>
+
+What I find more interesting about this specific case is the culture that quickly built and disintegrated around it. The initial mix of excitement, humour, and sometimes despair swiftly descends into gaming the system. Players throwing PvP games so they would fall in rank, meet the bot in a match, then beat it as a display of basic prowess to the frothing masses. Viewers checking out en masse once they realised the bot had hit its natural limit. My general disdain for gaming culture is not helped by seeing this bot "prove" my concerns.
+
+
 <h2><a href="link">Title</a></h2>
-Insert video embed here<br /><br />
+Insert video embed here<br><br>
+Comment
+
+<h2><a href="link">Title</a></h2>
+Insert video embed here<br><br>
 Comment
 
 <sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>
@@ -144,20 +135,10 @@ Comment
 <div class="footnotes" role="doc-endnotes">
     <ol>
     <li id="fn:1">
-        <p>nya<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+        <p>No I didn't hook up with them afterwards. I had already done that :><a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     </ol>
 </div>
 
-<script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
 <comentario-comments></comentario-comments>
-</p></div>
-
-  </div>
-
-</article>
-
-    </main>
-</body>
-
-</html>
