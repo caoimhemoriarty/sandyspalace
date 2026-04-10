@@ -41,9 +41,9 @@ Near the start of this article, the quote "a language designed for people who ar
 
 Apathy towards caring predates any recent deliberate push to manufacture it. And yet it is still heavily manufactured.
 
-<h2><a href="link">Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
+<h2><a href="https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket">Inside Nepal’s fake rescue racket</a></h2>
+<blockquote>Once a “rescue” is called, the financial choreography begins. A single helicopter carries multiple passengers. But separate, full-price invoices are submitted to each passenger’s insurance company, as if each had their own dedicated flight. A $4,000 charter becomes a $12,000 claim. Fake flight manifests and load sheets are fabricated. At the hospital, medical officers prepare discharge summaries using the digital signatures of senior doctors who were never involved in the case. In some cases, these are done without those doctors’ knowledge. Fake admission records are created for tourists who were, in some documented instances, drinking beer in the hospital cafeteria at the time they were supposedly receiving treatment.</blockquote>
+The entire ecosystem that has developed around Mt. Everest must be nauseating beyond belief to the dwindling amount of people who remember a time before rich people turned it into their playground.
 
 <h2><a href="link">Title</a></h2>
 <blockquote>Quote</blockquote>
@@ -122,9 +122,9 @@ Repeated button input can chain into easy combos with increasing ease, as each T
 What I find more interesting about this specific case is the culture that quickly built and disintegrated around it. The initial mix of excitement, humour, and sometimes despair swiftly descends into gaming the system. Players throwing PvP games so they would fall in rank, meet the bot in a match, then beat it as a display of basic prowess to the frothing masses. Viewers checking out en masse once they realised the bot had hit its natural limit. My general disdain for gaming culture is not helped by seeing this bot "prove" my concerns.
 
 
-<h2><a href="link">Title</a></h2>
-Insert video embed here<br><br>
-Comment
+<h2><a href="https://www.youtube.com/watch?v=yfJ6vipg7EE">How Traffic Lights Actually Work</a></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yfJ6vipg7EE?si=4D26UBstGlSZfDKz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
+I'm not sure how much of this info transfers over from American systems, but still, good shit.
 
 <h2><a href="link">Title</a></h2>
 Insert video embed here<br><br>

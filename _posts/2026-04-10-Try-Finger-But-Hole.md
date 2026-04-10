@@ -1,0 +1,51 @@
+---
+title: Try Finger But Hole
+---
+
+<div>
+<p>
+It's been a while since <a href="https://sandyspalace.ie/2025/11/03/Don't-Give-Up-Skeleton.html">I last did one of these</a>. My time away from this series has tempered my enthusiasm for it somewhat, even when nostalgising.<br><br>
+
+Dark Souls 3 was first announced in early 2016. I distinctly remember a post I made on Tumblr at the time, calling it "franchise milking".<br><br>
+
+The cynicism wasn't fully realised at that point. Dark Souls 2 had released under 2 years prior, and its improved version Scholar of the First Sin came out in 2015. Bloodborne also came out in 2015. The fact that there were two separate development teams hadn't really registered with me - I was more concerned with the speed these games were now coming out.<br><br>
+
+The game trailers leaned slightly away from the "You Will Die So Much Hurhurhurhur" slop that had dragged it down in recent years, though its influence still showed. The game released to enormous fanfare, and the best sales for the series yet. Thankfully, it was pretty well justified.<br><br>
+
+This development team had worked mostly on Dark Souls 1 and Bloodborne, and lessons had clearly been learned. The fast combat of Bloodborne was adapted nicely into the Dark Souls framework, while still giving players the wider freedoms in weapon/armour choice that they so craved. Balance, as usual, took a few months to iron out. But from a single-player perspective, the game was tight, had a strong vision, and executed it well. There's very few blatantly weak areas, bosses, or themes.<br><br>
+
+On the flip side, the additional refinement of 3 resulted in the beloved jagged edges of this series being somewhat lost. Dark Souls 1's glee in yeeting the player into any area if you were enthusiastic enough was beloved by speedrunners and lunatics (read: me), but saw criticism for being unintuitive and excessively punishing. 3 guides the player through a more strict tour of the world, with a few carefully placed deviations and alternate paths. Less chance to get lost, less chance to learn the tough but fun way.<br><br>
+
+On world design - the ability to warp to/from any bonfire from the beginning of the game is a huge loss, in my opinion. It reduces the player's willingness to search around, truly understand the boundaries of what they can do, and eliminates the crippling fear of being stuck in Tomb of the Giants with no visible way out<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup>. Demon's Souls justified its warping - there were five separate regions that you needed to hop in and out of, with a clear central hub to ground the player. Dark Souls 1 was a masterclass in world design, and the joy of seeing how areas looped back into each other was stunning. Later, the Lordvessel's ability to warp you between bonfires feels like a genuine huge victory. With 3, there are loops within some areas, but they feel increasingly contrived. You see a closed door or a gate, and your stomach sinks, knowing it'll either be locked or only opens from the other side. Who was the architect for this place, again?<br><br>
+
+Another disappointing period came about 60% of the way through the base game. Two areas in particular - the Profaned Capital, and Anor Londo. The former is a massive let-down, with the vague lore of the game hinting towards the Profaned Flame having huge importance. It doesn't; it's a glorified cup that shoots fireballs at you. There's like 8 enemies and none of them are fun to deal with. And the boss, Yhorm the Giant, is a monstrous failure, railroading the player into a single path to victory that's visually impressive but ultimately hollow.<br><br>
+
+The latter is a clear re-hash of a Dark Souls 1 area without rhyme of reason. The developers knew what the players expected, so they gave it to them, in the form of a watered-down experience that simply served as aimless nostaliga bait. Plus, <a href="https://darksouls3.wiki.fextralife.com/Company+Captain+Yorshka">Yorshka</a> being there derails a massive amount of lore, and for the sake of sanity I'm choosing to ignore her.<br><br>
+
+At this point, my understanding of the game was that it felt like a world tour of a band that knew what the crowd wanted. They played their Greatest Hits, and the fans cheer. They push a few new songs, and the tempo lulls. All the while, a banner is descending on the stage reading "This Cannot Continue". Ironically, this isn't the worst summary of the actual plot of the game. Mechanically sound and satisfying, but lacking organic joy like it used to.<br><br>
+
+Despite having improved playstyle variety in a game that's now far better balanced versus its release date, I replay this game shockingly few times. Despite my understanding that the game is the most polished, refined of the three games, or perhaps because of it. I did the tour before, I know what it's like.<br><br>
+
+The two DLCs take interesting approaches to make themselves distinct. Ashes of Ariandel is too short, drops some cute lore hints and little else, though culminates in a massive theatrical boss fight that would later be done to death. The Ringed City is a great return to form; a stunning world that culminates the story of all Souls games into one massive frothing cacophany. Plus a superb send-off final boss that feels like a beautiful goodbye to the series. Also the weapons from there were sick.<br><br>
+
+I didn't spend much time doing PvP in this game. At this point, the tryhards were out in full force on Day 1, screeching about which builds were ABSOLUTELY INSANE and herding players into mashing R1 all the time. The most disappointing thing about this was: it worked. It revealed that being particularly inventive about your character build or playstyle was getting you needlessly killed. This marked a decline in my enjoyment of these games for a long while.<br><br>
+
+Ultimately, the core experience of this game is good. It just feels like it could be unleashed a bit more. Be a bit weird about it! The devs' future vision, for the most part, did not agree with me.<br><br>
+
+<figure style="margin: 1rem auto; text-align: center;">
+<img src="/assets/images/blog/ds3-1.jpg" style="max-width: 100%; height: auto; display: block;">
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">Each player can pinpoint the time in their playthrough when they saw this one too many times.</figcaption>
+</figure>
+
+<div class="footnotes" role="doc-endnotes">
+    <ol>
+    <li id="fn:1">
+        <p>Good times.<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    </ol>
+</div>
+
+
+</p>
+<script defer src="https://comments.oakreef.ie/comentario.js"></script>
+<comentario-comments></comentario-comments>
