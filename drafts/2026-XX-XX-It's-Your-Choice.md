@@ -1,10 +1,12 @@
 ---
-title: Title
+title: It's Your Choice
 ---
 
 <div>
 <p>
-A
+I've always had a temper that's been difficult to manage, and I've always enjoyed cooking. These two things are related.<br><br>
+
+
 
 <figure style="margin: 1rem auto; text-align: center;">
 <img src="/assets/images/blog/test-1.png" style="max-width: 100%; height: auto; display: block;">
