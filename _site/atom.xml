@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-06-04T20:21:55+01:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Sandy’s Palace</title><subtitle>Caoimhe&apos;s gay little website</subtitle><entry><title type="html">What I’m Reading, Volume 8</title><link href="http://localhost:4000/2026/05/06/What-I'm-Reading-Vol-8.html" rel="alternate" type="text/html" title="What I’m Reading, Volume 8" /><published>2026-05-06T00:00:00+01:00</published><updated>2026-05-06T00:00:00+01:00</updated><id>http://localhost:4000/2026/05/06/What-I&apos;m-Reading-Vol-8</id><content type="html" xml:base="http://localhost:4000/2026/05/06/What-I&apos;m-Reading-Vol-8.html"><![CDATA[<div>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-06-16T16:14:27+01:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Sandy’s Palace</title><subtitle>Caoimhe&apos;s gay little website</subtitle><entry><title type="html">What I’m Reading, Volume 8</title><link href="http://localhost:4000/2026/06/16/What-I'm-Reading-Vol-8.html" rel="alternate" type="text/html" title="What I’m Reading, Volume 8" /><published>2026-06-16T00:00:00+01:00</published><updated>2026-06-16T00:00:00+01:00</updated><id>http://localhost:4000/2026/06/16/What-I&apos;m-Reading-Vol-8</id><content type="html" xml:base="http://localhost:4000/2026/06/16/What-I&apos;m-Reading-Vol-8.html"><![CDATA[<div>
 <p>
     Previous iterations:<br /><br />
     <ul>
@@ -53,14 +53,15 @@ I particularly resonate with this article's focus on the way individuals protect
 
 Similarly, owning the roof over your head is one of the biggest protections this society offers. Yet in a country with <a href="https://www.irishexaminer.com/news/arid-41454373.html">over 100,000 derelict properties</a> in the middle of a housing crisis, protesting this in a mildly inconvenient way will get you <a href="https://www.independent.ie/news/gardai-criticised-after-protesters-removed-from-derelict-dublin-building/37310265.html">attacked by balaclava-wearing police</a>. We are not seen as legitimate by the ruling class.
 
-<h2><a href="link">Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
+<h2><a href="https://aeon.co/essays/psychopathy-is-a-zombie-idea-why-does-it-cling-on">There are no psychopaths</a></h2>
+<blockquote>And this is perhaps the strongest evidence that psychopathy is a zombie idea: for as long as scientists have been studying the idea there has literally been no advancement in evidence-based knowledge. Instead, there has been rapidly growing evidence to suggest the idea is a dud. Yet scores of researchers continue to be interested in it, perhaps propelled by little more than their own bias and the idea’s infectious appeal.</blockquote>
+I feel that people desire that psychopathy be a real and diagnosable condition, to separate <i>those others</i> from the rest of the population. Whoever "those others" are tend to vary by what decade and moral panic it currently is.<br /><br />
 
-<h2><a href="link">Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
+Much of my life has been spent fighting people who use my autism diagnosis<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup> as a wedge against me. How relieved my parents were when they learned I was Different™! My complaints of bullying could then be gleefully ignored, as I was clearly too stupid to know how socialising worked. How delighted my teachers were! Now they didn't have to include me in whatever activity they didn't feel like me participating in. They were given their pretext by psychology, and they wielded it against me with a smile on their face.<br /><br />
 
+I draw the comparison between autism and "psychopathy" because of the eagerness of psychology and society to create an excuse to make "others" out of us. Anyone who does not fit into a pre-defined rigid role is clearly in the wrong; only those who fit into the societal mould - forcefully or otherwise - are worthy of basic rights and decency. If you stick out, there must be a reason for it, and it cannot be the fault of societal norms or roles.<br /><br />
+
+So the psychologists try, and fail, to label psychopathy. Society, through popular media, pushes the idea without regard. It's easier to create <i>others</i> that way. I don't see this changing any time soon.
 
 <p><h1>Light Reads</h1></p>
 
@@ -106,14 +107,9 @@ The most articulate graffiti outside of my local queer bar.
 <blockquote>But the actual internet — the protocols, the federated services, the plain-text commands, the open feeds, the small servers, the personal sites, the things people built when user and developer were sometimes the same word — is still right there.</blockquote>
 A slight detraction from this article is the singular dramatic meaningful lines given massive prominence just for posture. This isn't Medium, Terry. But their points still stand. Make your own site. 
 
-<h2><a href="link">Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
-
-<h2><a href="link">Title</a></h2>
-<blockquote>Quote</blockquote>
-Comment
-
+<h2><a href="https://blog.scienceandindustrymuseum.org.uk/canary-resuscitator/">Exploring our collection: The canary resuscitator</a></h2>
+<blockquote>So why is this my favourite object in our collections? Firstly, while I don’t advocate the use of animals in testing dangerous conditions, I am pleased that Haldane spared a thought for the canaries themselves and worked to make their job as non-lethal as possible. My impression from hearing about canaries in coal mines was that they were expected to die to warn people, so when I came across this object it was a huge relief (though my research on the topic has found less thoughtful cages).</blockquote>
+People being as good as they can be, within the confines of their role in life, usually puts a smile on my face.
 
 <p><h1>Cool Sites</h1></p>
 <h2><a href="https://blackhole-simulation.vercel.app/">Black Hole Simulation</a></h2>
@@ -134,18 +130,9 @@ Also they do <a href="https://www.thistothat.com/news.shtml">Glues In The News</
 <h2><a href="https://technooptimism.org/archive/">Techno-Optimism Archive</a></h2>
 It would be very easy of me to respond cynically to the eager, sometimes outrageous, promises of a wonderful future in these little snippets. Younger me would have.<br /><br />
 
-Instead I find that this archive shows how the innovations themselves always had the power to shape the world, and often did. Where they stumble is how they integrate into existing human ways of life and hierarchies. Radio and television brought media to the masses. Email<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup> and the internet <i>did</i> allow us to break through hierarchies. Until it was so ingrained into our lifestyle that the nature of the product changed. What was once radical and exciting inevitably becomes routine, and with it, the technologies become manipulated against their initial intentions. Rarely the fault of the tech itself.<br /><br />
+Instead I find that this archive shows how the innovations themselves always had the power to shape the world, and often did. Where they stumble is how they integrate into existing human ways of life and hierarchies. Radio and television brought media to the masses. Email<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">[2]</a></sup> and the internet <i>did</i> allow us to break through hierarchies. Until it was so ingrained into our lifestyle that the nature of the product changed. What was once radical and exciting inevitably becomes routine, and with it, the technologies become manipulated against their initial intentions. Rarely the fault of the tech itself.<br /><br />
 
 Also - this archive is full proof that anyone promising that an industry/way of life/ecosystem will be DESTROYED by the New Thing is universally full of shit.
-
-<h2><a href="link">Title</a></h2>
-Comment
-
-<h2><a href="link">Title</a></h2>
-Comment
-
-<h2><a href="link">Title</a></h2>
-Comment
 
 <p><h1>Videos</h1></p>
 
@@ -155,7 +142,7 @@ Comment
 
 I have a strong distaste for bots in online games, but I'll entertain the questions raised by this one.<br /><br />
 
-Eddy has been a button-masher character since Tekken 3, as this video points out. I've used this character to impress cute girls<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">[2]</a></sup> in arcades because I can string together semi-decent combos out of him with three-button input and it looks flashy. Mashing '3' highlights more things about the development of modern Tekken games, mind you.<br /><br />
+Eddy has been a button-masher character since Tekken 3, as this video points out. I've used this character to impress cute girls<sup id="fnref:3"><a href="#fn:3" class="footnote" rel="footnote" role="doc-noteref">[3]</a></sup> in arcades because I can string together semi-decent combos out of him with three-button input and it looks flashy. Mashing '3' highlights more things about the development of modern Tekken games, mind you.<br /><br />
 
 Repeated button input can chain into easy combos with increasing ease, as each Tekken title comes out. 7 and 8 are particularly notorious for this. As with any competitive game, understanding how the mechanics work will provide several escape methods for this behaviour, but it's not immediately intutitive to a novice player. I utilised similar techniques in other games, generally abusing stunlocks in Dark Souls 1 to players that didn't know how to toggle escape.<br /><br />
 
@@ -175,10 +162,13 @@ And suddenly I'm less bothered about every fourth street in Ireland being "Mary"
 <div class="footnotes" role="doc-endnotes">
     <ol>
     <li id="fn:1">
-        <p>With a similar train of thought - when we started referring to it as "email" rather than "e-mail", did that signify its shift to normality? Maybe I'm over-reading into that a bit much.<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+        <p>At the point of my first diagnosis, it was known at the time as Aspergers Syndrome. We were the "useful" autists who would have been spared the Nazi concentration camps. What a relief.<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     <li id="fn:2">
-        <p>No I didn't hook up with them afterwards. I had already done that :&gt;<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
+        <p>With a similar train of thought - when we started referring to it as "email" rather than "e-mail", did that signify its shift to normality? Maybe I'm over-reading into that a bit much.<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:3">
+        <p>No I didn't hook up with them afterwards. I had already done that :&gt;<a href="#fnref:3" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     </ol>
 </div>
