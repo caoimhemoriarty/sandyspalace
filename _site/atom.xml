@@ -1,4 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-06-16T16:14:27+01:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Sandy’s Palace</title><subtitle>Caoimhe&apos;s gay little website</subtitle><entry><title type="html">What I’m Reading, Volume 8</title><link href="http://localhost:4000/2026/06/16/What-I'm-Reading-Vol-8.html" rel="alternate" type="text/html" title="What I’m Reading, Volume 8" /><published>2026-06-16T00:00:00+01:00</published><updated>2026-06-16T00:00:00+01:00</updated><id>http://localhost:4000/2026/06/16/What-I&apos;m-Reading-Vol-8</id><content type="html" xml:base="http://localhost:4000/2026/06/16/What-I&apos;m-Reading-Vol-8.html"><![CDATA[<div>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-06-29T13:24:46+01:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Sandy’s Palace</title><subtitle>Caoimhe&apos;s gay little website</subtitle><entry><title type="html">UNLIMITED POWER</title><link href="http://localhost:4000/2026/06/29/Unlimited-Power.html" rel="alternate" type="text/html" title="UNLIMITED POWER" /><published>2026-06-29T00:00:00+01:00</published><updated>2026-06-29T00:00:00+01:00</updated><id>http://localhost:4000/2026/06/29/Unlimited-Power</id><content type="html" xml:base="http://localhost:4000/2026/06/29/Unlimited-Power.html"><![CDATA[<p>I got a solar panel array installed last week! This has been a source of huge enthusiasm for months. I am bothering the hell out of my girlfriend and roommate and will not be stopping any time soon :3 <br /><br /></p>
+
+<p>The timing has been excellent. Energy independence has been on the mind of a lot of Irish people. The invasion of Ukraine forced up gas prices. The pointless bombing of Iran sent oil prices into a spiral. The knock-on effect on petrol and diesel prices provoked a <a href="https://en.wikipedia.org/wiki/2026_Irish_fuel_protests">cascade of protests nationwide</a>. It’s very difficult to convince the Irish to protest.<br /><br /></p>
+
+<p>I was buying a cheap electric car<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup> during that week of protests. The multitude of blockades meant that getting the car transported from [REDACTED] to [REDACTED] was shockingly difficult. It was a fascinating experience that week, navigating blockades both in-person and logistically. It very much reinforced that these external events have always happened, will continue to happen, and the tech to circumnavigate them is only getting better.<br /><br /></p>
+
+<p>My house sits on a convenient North-South orientation, with standard 30 degree roof sloping. Despite the small-ish size of the roof area, it’s absolutely ideal for solar panels. Of lesser convenience was the size of the house walls - the battery and inverter needed to be mounted to a sufficiently sized wall space, and this was quite tricky to find.<br /><br /></p>
+
+<p>We fitted 10x 470W panels to the south-facing roof, squeezing in as much as we could. With the two spare, those got planted on the north-facing roof, with some <a href="https://www.tigoenergy.com/product/ts4-a-o">optimisers</a> also installed on each. In arrays where the panels are not all facing the same direction, these optimisers are essential to ensure that the maximum amount of power can be extracted from all panels. The general estimate was that these north-facing panels would work at about 50-60% efficiency versus the south-facing panels. In this specific installation’s case, the contract was for 10 solar panels and 2 more being provided for “free”, so it was still worthwhile to add the optimisers. I don’t think it’d be worth it to add panels+optimisers to fill the entire north-facing roof.<br /><br /></p>
+
+<p>With a total system capacity of 5.6kWp<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">[2]</a></sup>, I’ve been glued to the output of the system inverter, to see how it’s been impacting the household.</p>
+
+<p><h1>Panel Output</h1></p>
+
+<p>Ireland is not known for its gorgeous weather. Despite this, on bursts of direct sunlight, we’re seeing 4-5kW coming through these panels pretty consistently.<br /><br /></p>
+
+<p>During overcast weather - far too often - it’s more like 1-2kW. What’s fascinating is that this is still sufficient to cover a huge amount of household energy usage. Outside of some peaky usage - cooking, using washers/dryers - our energy usage is consistent and low. Two PCs almost always running, some household appliances, maybe some additonal electrics, but nothing crazy. The panels cover all of this, at all times of day.<br /><br /></p>
+
+<p>There is always power to spare, and I love watching and optimising how this is fed into the other systems. There is a 10kW battery installed, which would otherwise cover a massive chunk of daily usage. The inverter keep this topped up as a first priority. At any time, there’s at least 5kW on backup to keep us independent of grid usage. As a second priority, the inverter will feed power back to the grid. This fuels my smugness to incredible rates.<br /><br /></p>
+
+<figure style="margin: 1rem auto; text-align: center;">
+<img src="/assets/images/blog/electricity-1.png" style="max-width: 100%; height: auto; display: block;" />
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem; font-style: italic;">This pleases me to a concerning degree.</figcaption>
+</figure>
+
+<p>See above for an average day in summer so far. PV is the solar panel yield, Battery is showing whether it’s charging (positive on the y-axis) or discharging (negative on the y-axis), Grid shows whether we’re exporting/selling (positive on y-axis) or importing/buying (negative), Load shows total household electricity consumption, and SOC is the 10kW battery State of Charge.<br /><br /></p>
+
+<p>From sunset to sunrise, the 10kW battery can handle the entire household. The solar panels kick in around 08:00, and just keep ramping up. This example had some decent sunlight available, and it shows. Every power spike in the house - most likely the clothes washer or dryer - is comprehensively covered from multiple sources.<br /><br /></p>
+
+<p>On the handful of days so far with data to analyse, I’ve seen 15-30kW of power generated from these panels. They keep the household running, they hold energy in storage, and they sell back to the grid. Really impressive stuff that I’m struggling to fully articulate in text form.</p>
+
+<p><h1>Infinite Optimisation</h1></p>
+<p>Of course, I can never approach a project normally. This one had an expensive outlay, and has swathes of data to fawn over. I’m going to be spending a long time working on this.<br /><br /></p>
+
+<p>There are several areas where this setup can be pushed further:</p>
+
+<p><h2>Battery and Inverter Capacity</h2></p>
+
+<p>By evening time, when the solar panels are retiring for a nap, the 10kW battery is always sitting at 100% charge. Depending on how much electricity we consume in the evening, we can drain the battery down to as little as 20% if there’s high-usage things like EV charging, or as much as 60-70% if there’s little going on. This is all free power, totally independent of the grid, which is wonderful.<br /><br /></p>
+
+<p>Of course, we can do better, because we can also sell that battery power back to the grid. If the solar panels come back online at 08:00 the next day, and there’s still plenty of charge left in the battery, is this not wasted power? I’ve been trying to devise targets for determining when the inverter should discharge the battery and start selling, once everyone has gone to bed and that power would otherwise be sitting there. It also depends on whether the EV will be charging, and at what time.<br /><br /></p>
+
+<p>In summer time, I feel that charging the EV earlier is ideal, especially if we can do it during the daytime. The EV charges off a 3kW granny plug - its battery is depleted as hell and it doesn’t need any more fast charging in its life. The solar panels and 10kW battery combined can easily grant it 3kWh with no concerns. At night time, charging off the battery seems to be fine. This is mostly due to the fact that morning-time energy usage in our household is low, apart from one item, and the battery doesn’t need to contain massive charge going into the morning time.<br /><br /></p>
+
+<p>The sole exception to this is the electric shower. We have a 9.5kW unit, and it’s exposing one weakness in our setup: The inverter is rated for 5kW at any given time. Meaning that if the electric shower is running, the battery can only cover 5kW at any given time, and the rest has to be pulled from the grid, regardless of charge levels, or time of day. Despite the slight cost of this, it also means that the 10kW battery doesn’t need to hold full charge in order to handle morning showers.<br /><br /></p>
+
+<p>Currently I’m targeting the battery to have minimum 50% charge going into the mornings. If the EV isn’t charging, it never even falls this low. If only one person is cooking, and only using the induction hob, we go into the next morning with 80% charge. If two people are cooking, maybe it’s 60%. This gives us a lot of additional flexibility in optimising this setup.</p>
+
+<p><h2>Consumption Timing</h2></p>
+
+<p>We should also consider the winter months. Taking <a href="https://www.timeanddate.com/sun/ireland/dublin">this data</a> as reference, we will have 8-10 hours of sunlight, versus 14-16 in summer. Plus, the sun will be arcing lower on the horizon, reducing its angle of attack on the solar panels. This effect is significantly more noticable on the north-facing panels, and I expect them to produce very little in these months.<br /><br /></p>
+
+<p>How does this impact optimising solar panel output? I imagine the panels may still cover daytime household energy usage, but only for a few hours total, and will struggle to top-up the battery. We will be pulling much more from the grid, and this is where I’m looking to focus.<br /><br /></p>
+
+<p>Using the inverter, I can issue guidelines on charging and discharge the battery:<br /></p>
+
+<ul>
+  <li>What times of day it should start/stop</li>
+  <li>Should it trigger when the battery falls to a certain level, and when it should cut off</li>
+  <li>What maximum level of amps can be charged/discharged</li>
+</ul>
+
+<p>Keeping the battery level sufficiently charged in the winter will be trickier. There won’t be the same flexibility of knowing that we can recharge easily off solar panels, and trying to charge via the grid should be kept to a minimum.</p>
+
+<p><h2>Delicious Arbitrage</h2></p>
+
+<p>There is another external factor at play: Electrity rates that are variable depending on time of day. These are relatively new to the Irish market, and are known for their duality in either exploiting or being played by consumers. There are a few different types on sale, and I’ve targeted the type that has a specialised rate at night-time, usually from 02:00-05:00. Here is where grid usage is at its absolute minimum, while the power plants still need to be running, and there is excess capacity that’s on sale for competitive rates. As a trade-off, daytime and especially peak rates are much higher in these energy plans.<br /><br /></p>
+
+<p>Those with home battery storage are able to take advantage of this disparity best. Pull as much as possible from the grid at 02:00, and use it to charge up your battery, ideally to full. Then use this battery power instead of drawing from the grid in the daytime. Pretty straightforward stuff.<br /><br /></p>
+
+<p>However, this can be pushed further. Households can now sell power back to the grid, as of 2023. Plus, the current microgeneration rate of 18.5c per kWh is lower than the night-time consumption rates of 8-10c per kWh. I think you can see where this is going.<br /><br /></p>
+
+<p>If our household goes through the whole day and has power left over, it makes a lot of sense to sell this back to the grid. Even more sense to force-sell it back to the grid, right after you bought it at a cheaper rate. I am assessing a few different windows of opportunity here:</p>
+
+<ul>
+  <li>Option 1: From 00:00-02:00, discharging the battery down to minimal levels, just before we can buy back from the grid at cheaper rates</li>
+  <li>Option 2: Charging the battery up to 100% by 05:00, then discharge down to ~50% from 06:00-08:00. Arbitrage profit of 8c per kWh, and leaving electricity to spare for morning usage</li>
+  <li>Optionally: Selling back to the grid with excess solar panel output where possible</li>
+</ul>
+
+<p>This has yet to stand the test of winter. But I desire backup plans within backup plans. For, yknow, that sweet 8c per kWh arbitrage. It adds up 🙂‍↕️</p>
+
+<p><h2>Bringing Everything Together</h2></p>
+<p>The inverter has a huge range of controls, most of which I don’t understand, but appreciate being in control of. Modern tech should know its place more like this.<br /><br /></p>
+
+<p>I have few controls in place at the moment. The summer months make it easy. The inverter is automatically set up to power the household, then charge the 10kW battery, then sell back to the grid. An abundance of sunlight, even in Ireland, means this setup is not jeapordised. For now, all I’ve additionally instructed the inverter is to ensure the 10kW battery is only charged by the grid while it’s below 50%, and only at the discounted 02:00-05:00 rate.<br /><br /></p>
+
+<p>This target of 50% can likely be lowered. We’re not using 5kW of electricity in the morning, and if the shower burned that much (approx. 30 minutes), due to inverter limitations, the battery would only cover half this usage anyway. So I will incrementally drop this figure and see how energy independent we remain. I’m hoping to reduce this target to 30% with minimal issues.<br /><br /></p>
+
+<p>I will soon experiment with an arbitrage setup, starting with selling energy back to the grid via the battery, rather than just the solar panels at the moment. In summer months, given that the battery will rarely charge off the grid, we can likely sell off excess battery power without having to buy it back at another time of day.<br /><br /></p>
+
+<p>My first experiment will be discharging the battery (selling off to the grid) before 08:00 each day, until the battery reaches a certain threshold. It should be a step higher than the above target. So for example, if the battery is at 60% in the morning, sell power back to the grid until it reaches 35%, then stop. This should be timed such that it sells off electricity just before the solar panels begin to provide power. Tricky but doable.<br /><br /></p>
+
+<p>Moving into winter, I anticipate setting up an additional series of rules. In particular, the 10kW battery charge levels will need to be more tightly controlled. As the solar panels will not consistently cover household load, particularly in the morning and evening, it’s ideal to ensure that the battery is charged off the grid at the ideal time: 02:00-05:00. This is the cheapest rate possible, and maximising this rate will ensure that daytime energy usage costs are tightly controlled.<br /><br /></p>
+
+<p>The rules for battery charge and discharge will be significantly different in these months versus summer months. They will be more focused on arbitrage, rather than coasting off solar panel output. Selling off excess power at 00:00-02:00, and selling off cheaply purchased power at 05:00-08:00, will be key here. The profit here should also be carefully considered against the additional wear this imposes on the 10kW battery. If it reduces the battery life too much, I will drop this experiment, and just focus on reducing daytime costs.<br /><br /></p>
+
+<p>Also: Yap about these plans an insane amount. Everyone is looking forward to that :3</p>
+
+<hr />
+
+<div class="footnotes" role="doc-endnotes">
+    <ol>
+    <li id="fn:1">
+        <p>Despite the incredible timing, it was actually down to other cost concerns. I was out of work for several months at this point, and was preparing to sell off Takumi. Glad that didn't materialise.<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+        <li id="fn:2">
+        <p>Unsure is this before or after considering the disparity between the north-facing and south-facing panels. Given the readings I've seen so far, I think it's after. Unconfirmed for now.<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    </ol>
+</div>
+
+<script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
+
+<comentario-comments></comentario-comments>]]></content><author><name></name></author><summary type="html"><![CDATA[I got a solar panel array installed last week! This has been a source of huge enthusiasm for months. I am bothering the hell out of my girlfriend and roommate and will not be stopping any time soon :3]]></summary></entry><entry><title type="html">What I’m Reading, Volume 8</title><link href="http://localhost:4000/2026/06/16/What-I'm-Reading-Vol-8.html" rel="alternate" type="text/html" title="What I’m Reading, Volume 8" /><published>2026-06-16T00:00:00+01:00</published><updated>2026-06-16T00:00:00+01:00</updated><id>http://localhost:4000/2026/06/16/What-I&apos;m-Reading-Vol-8</id><content type="html" xml:base="http://localhost:4000/2026/06/16/What-I&apos;m-Reading-Vol-8.html"><![CDATA[<div>
 <p>
     Previous iterations:<br /><br />
     <ul>
@@ -669,42 +783,4 @@ A story about Fokker jet airplanes, how they are tricky to handle in snowy weath
 
 <script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
 <comentario-comments></comentario-comments>
-</p></div>]]></content><author><name></name></author><summary type="html"><![CDATA[Now with a Cool Sites section!]]></summary></entry><entry><title type="html">Hype</title><link href="http://localhost:4000/2026/02/12/Hype.html" rel="alternate" type="text/html" title="Hype" /><published>2026-02-12T00:00:00+00:00</published><updated>2026-02-12T00:00:00+00:00</updated><id>http://localhost:4000/2026/02/12/Hype</id><content type="html" xml:base="http://localhost:4000/2026/02/12/Hype.html"><![CDATA[<div>
-<p>
-I've recently followed the RSS feed of <a href="http://jank.cool/">Jank</a>, a newly-created independent arts and culture website talking about video games. It's not a reinvention of the wheel, rather a more calmer and (hopefully) more sustainable approach to the modern internet. They write articles out of enthusiasm, rather than commercial needs. Truly radical stuff.<br /><br />
-
-In <a href="https://www.jank.cool/i-wish-videogame-culture-would-take-more-cues-from-readers/">a recent article</a>, this point is raised about video games release cycles and hype trains:<br /><br />
-
-<blockquote>[Compared to books] I wish we did more of the same in videogames. Our equivalent discourse gets as far as ranking the best games of the year that was, and then immediately moves on to anticipating the next year's new releases, pre-emptively stuffing our backlogs with games we'll rue not having had the time to play when the next year draws to a close. Couldn't we set ourselves some more interesting constraints?<br /><br />
-
-The problem - I don't think I'm blowing anyone's mind here - is in part that videogames culture is so commercial. Publishers make money by selling you something new, and the relentless marketing cycle has seeped into everything. Our awards shows are about games that aren't out yet, all our websites are mainly about games that aren't out yet or have just come out. Gaming discourse lies downstream from that, talking about games for two weeks after their release, then mostly falling silent until the inevitable remake or remaster.</blockquote>
-
-I haven't cared about modern video games for a few years. I maintain that if a game is good, it will stay good, and still be in a perfectly playable state in 5 or 10 years. Plus, if people are still talking about it years after release, it's fabulous praise for the longevity of the media. This approach stays true for TV shows, films, books, and other media that I meticulously avoid for increasingly petty reasons.<br /><br />
-
-Anime stopped being an interest around a decade ago. Having entered the space via watching older works - Evangelion, Gurren Lagann, Serial Experiments Lain, Steins;Gate - I found myself following youtube<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">[1]</a></sup> channels relentlessly pushing the Next Big Thing. Seasonal releases of anime on a strict schedule led to hype trains being tactically pre-generated weeks before release. Whiny American accents told me how Isekai Bullshit or Hype Shounen Fight was going to be ah-bsolutely INSANE.<br /><br /> 
-
-It never was, of course. The anime comes out, a few frames of smug anime girl does the rounds on /r/animemes for an embarassing amount of time, before you blink and find yourself smothered by yet another character you've never heard of. It's been three months! Go watch Isekai Bullshit: Rebellion, everyone else is doing it! Or don't, and post the same fucking meme format picture like everyone else.<br /><br />
-
-I miss very little of this. The microsecond-level satisfaction that comes from being in with the crowd swiftly disappears, and you're left chasing the next burst of hype. This feels true across any media that any yappertron is telling you to engage in. And truly disconnecting from this is more difficult than expected.<br /><br />
-
-As far as disengaging from modern media goes, <a href="https://sandyspalace.ie/2025/11/11/Turboautismo.html">Turboautism</a> has been surprisingly helpful with this journey. My brain rewards me for engaging in things I <i>know</i> I'll enjoy, rather than running the risk of trialling a new thing for 10+ hours that may or may not deliver dopamine. This is beneficial in that I can avoid new releases with ease, but often run the risk of missing out on things I would genuinely enjoy. If I don't understand in advance that The Thing is good for me, I often don't entertain the thought of it.<br /><br />
-
-The downside of this is that engagement in media feels inherently tied into socialisation. Casual office conversation often rotates around the new big TV show. I continually refuse to spend my free time on reserving brain space for pleasing others outside of a core social circle. Which is a placid way of saying I make terrible office chat. In friend circles, I feel a lack of connection that could be gained from understanding several thousand pages of Brandon Sanderson writing. I tell myself I have better things to do, but lose out because of it.<br /><br />
-
-My compromise in recent years has been engaging in media after hearing praise of it from a trusted mutual. <a href="https://oakreef.ie/">Caoimhe's</a> curated media archive has rarely failed to deliver something memorable. Which is far more of a renowned adjective to me than something just being "good". We watch something cracked from the 1980s, and it becomes a small but special part of my brain matter. Watching something one of us has already seen, and the other hasn't, is always a delight. Caróg's film taste has a similar effect, delivering oddities I'd never otherwise encounter, often bizarre and never dull.<br /><br />
-
-This approach is fun and memorable, but difficult to sustain, in that I'm reliant on cool people to recommend cool stuff until the end of time. I attempt to alleviate things by cooking tasty meals for people and hoping they don't notice my inability to suggest anything for the next movie night. I'm sure they won't notice :3
-
-<div class="footnotes" role="doc-endnotes">
-    <ol>
-    <li id="fn:1">
-        <p>I don't capitalise things that I don't respect.<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
-    </li>
-    </ol>
-</div>
-
-
-</p>
-<script defer="" src="https://comments.oakreef.ie/comentario.js"></script>
-<comentario-comments></comentario-comments>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[I've recently followed the RSS feed of Jank, a newly-created independent arts and culture website talking about video games. It's not a reinvention of the wheel, rather a more calmer and (hopefully) more sustainable approach to the modern internet. They write articles out of enthusiasm, rather than commercial needs. Truly radical stuff.]]></summary></entry></feed>
+</p></div>]]></content><author><name></name></author><summary type="html"><![CDATA[Now with a Cool Sites section!]]></summary></entry></feed>

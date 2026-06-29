@@ -1,14 +1,6 @@
 ---
-title: Title
+title: Journalling
 ---
-
-<!-- #Todo:
-- Childhood experiences with not being listened to
-- ASD used as a wedge
-- Wouldn't it be nice to just put on headphones and nap on someone and call it socialising
-
- -->
-
 
 <div>
 <p>
